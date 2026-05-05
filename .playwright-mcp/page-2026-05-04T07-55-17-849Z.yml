@@ -1,0 +1,95 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - heading "AML Case Management" [level=1] [ref=e3]
+    - generic [ref=e4]:
+      - generic [ref=e5]: "Role:"
+      - combobox "Role:" [ref=e6]:
+        - option "Analyst" [selected]
+        - option "Reviewer"
+        - option "Operations Manager"
+  - generic [ref=e7]:
+    - navigation [ref=e8]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "📊 Dashboard" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e12]: 📊
+            - generic [ref=e13]: Dashboard
+        - listitem [ref=e14]:
+          - link "📁 Cases" [ref=e15] [cursor=pointer]:
+            - /url: /cases
+            - generic [ref=e16]: 📁
+            - generic [ref=e17]: Cases
+    - main [ref=e18]:
+      - generic [ref=e44]:
+        - heading "Cases" [level=1] [ref=e45]
+        - generic [ref=e46]:
+          - textbox "Search by case number or customer name…" [ref=e47]
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e50]: Status
+              - combobox "Status" [ref=e51]:
+                - option "All Statuses"
+                - option "New" [selected]
+                - option "Under Review"
+                - option "Pending Information"
+                - option "Pending Reviewer Approval"
+                - option "Approved for STR Filing"
+                - option "Closed - No STR"
+                - option "Closed - STR Filed"
+            - generic [ref=e52]:
+              - generic [ref=e53]: Risk Rating
+              - combobox "Risk Rating" [ref=e54]:
+                - option "All Risk Ratings" [selected]
+                - option "Low"
+                - option "Medium"
+                - option "High"
+            - generic [ref=e55]:
+              - generic [ref=e56]: Sort By
+              - combobox "Sort By" [ref=e57]:
+                - option "Last Updated" [selected]
+                - option "Risk Score"
+        - table [ref=e59]:
+          - rowgroup [ref=e60]:
+            - 'row "Case # Customer Type Risk Rating Alert Type Risk Score Amount Status Analyst Updated" [ref=e61]':
+              - 'columnheader "Case #" [ref=e62]'
+              - columnheader "Customer" [ref=e63]
+              - columnheader "Type" [ref=e64]
+              - columnheader "Risk Rating" [ref=e65]
+              - columnheader "Alert Type" [ref=e66]
+              - columnheader "Risk Score" [ref=e67]
+              - columnheader "Amount" [ref=e68]
+              - columnheader "Status" [ref=e69]
+              - columnheader "Analyst" [ref=e70]
+              - columnheader "Updated" [ref=e71]
+          - rowgroup [ref=e72]:
+            - row "AML-2026-0009 Asha Global Services Pte Ltd CORPORATE MEDIUM Multiple Unrelated Counterparties 45 (Medium) $95,000 New James Wong 04/05/2026" [ref=e107] [cursor=pointer]:
+              - cell "AML-2026-0009" [ref=e108]:
+                - link "AML-2026-0009" [ref=e109]:
+                  - /url: /cases/cmoqwhudq001fe73utewz0h3a
+              - cell "Asha Global Services Pte Ltd" [ref=e110]
+              - cell "CORPORATE" [ref=e111]
+              - cell "MEDIUM" [ref=e112]:
+                - generic [ref=e113]: MEDIUM
+              - cell "Multiple Unrelated Counterparties" [ref=e114]
+              - cell "45 (Medium)" [ref=e115]:
+                - generic [ref=e116]:
+                  - generic [ref=e117]: "45"
+                  - generic [ref=e118]: (Medium)
+              - cell "$95,000" [ref=e119]
+              - cell "New" [ref=e120]:
+                - generic [ref=e121]: New
+              - cell "James Wong" [ref=e122]
+              - cell "04/05/2026" [ref=e123]
+  - generic [ref=e38] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e39]:
+      - img [ref=e40]
+    - generic [ref=e175]:
+      - button "Open issues overlay" [ref=e176]:
+        - generic [ref=e177]:
+          - generic [ref=e178]: "0"
+          - generic [ref=e179]: "1"
+        - generic [ref=e180]: Issue
+      - button "Collapse issues badge" [ref=e181]:
+        - img [ref=e182]
+  - alert [ref=e43]

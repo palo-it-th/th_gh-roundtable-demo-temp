@@ -1,0 +1,101 @@
+lockfile_version: '1'
+generated_at: '2026-05-04T06:23:38.774980+00:00'
+apm_version: 0.9.1
+dependencies:
+- repo_url: addyosmani/web-quality-skills
+  host: github.com
+  resolved_commit: 0b377cef290343ed3f652f66caa19927223d5451
+  virtual_path: skills/core-web-vitals
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/core-web-vitals
+  content_hash: sha256:f918209ffa7259ff51539386881e7f39ba303fe562ff6e9692635121ef77953f
+- repo_url: addyosmani/web-quality-skills
+  host: github.com
+  resolved_commit: 0b377cef290343ed3f652f66caa19927223d5451
+  virtual_path: skills/performance
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/performance
+  content_hash: sha256:acbafe2fcbfc3a1a67db47c2f6299d5c0e16f543c4e683e38e74a8ccb54888fb
+- repo_url: addyosmani/web-quality-skills
+  host: github.com
+  resolved_commit: 0b377cef290343ed3f652f66caa19927223d5451
+  virtual_path: skills/web-quality-audit
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/web-quality-audit
+  content_hash: sha256:4e8854ff784bdf9aee29f4926bf4e44da9013e38b9a55f8ece96d66e74728e2f
+- repo_url: supabase/agent-skills
+  host: github.com
+  resolved_commit: 4bb13d858d19f1f848505a66f46fc9603fdcde95
+  virtual_path: skills/supabase-postgres-best-practices
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/supabase-postgres-best-practices
+  content_hash: sha256:4bbb2a7c78c271eeb0e76965b538ed9a2963e756a2ce80532fe6b78b476f6cbd
+- repo_url: trailofbits/skills
+  host: github.com
+  resolved_commit: 870955f1af03acfec736f77c287219bc01af11e9
+  virtual_path: plugins/static-analysis
+  is_virtual: true
+  package_type: apm_package
+  deployed_files:
+  - .github/agents/semgrep-scanner.agent.md
+  - .github/skills/codeql
+  - .github/skills/sarif-parsing
+  - .github/skills/semgrep
+  deployed_file_hashes:
+    .github/agents/semgrep-scanner.agent.md: sha256:26d412799ad8e549ca2fbe1f93536e66f222feb6a0ae78e0a286947ba5e3f416
+  content_hash: sha256:c0a9571c4d943b4a77c3192557c27a990914c57d09d92966c9f795164dd3b647
+- repo_url: vercel-labs/agent-skills
+  host: github.com
+  resolved_commit: ce3e64e468f8fa09a2d075d102771838061fdac0
+  virtual_path: skills/composition-patterns
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/composition-patterns
+  content_hash: sha256:5b3564ca435f4714d5e65023351e1999e4744818603a9cfb6a6f6a61b7d84918
+- repo_url: vercel-labs/agent-skills
+  host: github.com
+  resolved_commit: ce3e64e468f8fa09a2d075d102771838061fdac0
+  virtual_path: skills/react-best-practices
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/react-best-practices
+  content_hash: sha256:74f142d28d360d78e8bac4f239a84c87f0ced9015729bc72b5458d82ff45b015
+- repo_url: vercel-labs/next-skills
+  host: github.com
+  resolved_commit: 038954e07bfc313e97fa5f6ff7caf87226e4a782
+  virtual_path: skills/next-best-practices
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/next-best-practices
+  content_hash: sha256:48ae165cb0ff7265342536ff95203d96ba53840f1c04faae797cecbd2b8a5d31
+- repo_url: vercel-labs/next-skills
+  host: github.com
+  resolved_commit: 038954e07bfc313e97fa5f6ff7caf87226e4a782
+  virtual_path: skills/next-cache-components
+  is_virtual: true
+  package_type: claude_skill
+  deployed_files:
+  - .github/skills/next-cache-components
+  content_hash: sha256:a94b83ddcd2ff1c30722577f693b1bfe32f2e1a83abdd6c08c2d6cc6753b53c8
+mcp_servers:
+- playwright
+mcp_configs:
+  playwright:
+    name: playwright
+    transport: stdio
+    args:
+    - -y
+    - '@playwright/mcp@latest'
+    registry: false
+    command: npx

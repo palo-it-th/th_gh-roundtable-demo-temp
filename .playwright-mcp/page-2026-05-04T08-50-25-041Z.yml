@@ -1,0 +1,227 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - heading "AML Case Management" [level=1] [ref=e3]
+    - generic [ref=e4]:
+      - generic [ref=e5]: "Role:"
+      - combobox "Role:" [ref=e6]:
+        - option "Analyst"
+        - option "Reviewer" [selected]
+        - option "Operations Manager"
+  - generic [ref=e7]:
+    - navigation [ref=e8]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "📊 Dashboard" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e12]: 📊
+            - generic [ref=e13]: Dashboard
+        - listitem [ref=e14]:
+          - link "📁 Cases" [ref=e15] [cursor=pointer]:
+            - /url: /cases
+            - generic [ref=e16]: 📁
+            - generic [ref=e17]: Cases
+    - main [ref=e18]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]:
+              - heading "AML-2026-0021" [level=1] [ref=e60]
+              - paragraph [ref=e61]: Eastern Horizon Imports Pte Ltd
+            - generic [ref=e62]: Approved for Filing
+            - generic [ref=e63]:
+              - generic [ref=e64]: "91"
+              - generic [ref=e65]: (Critical)
+          - paragraph [ref=e66]: "Analyst: Sarah Chen"
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - heading "Customer Profile" [level=2] [ref=e69]
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - term [ref=e72]: Name
+                - definition [ref=e73]: Eastern Horizon Imports Pte Ltd
+              - generic [ref=e74]:
+                - term [ref=e75]: Type
+                - definition [ref=e76]: CORPORATE
+              - generic [ref=e77]:
+                - term [ref=e78]: Risk Rating
+                - definition [ref=e79]: HIGH
+              - generic [ref=e80]:
+                - term [ref=e81]: Nationality
+                - definition [ref=e82]: Singapore
+              - generic [ref=e83]:
+                - term [ref=e84]: Business Activity
+                - definition [ref=e85]: Import/export of textiles and garments — primary suppliers in Myanmar and Cambodia
+              - generic [ref=e86]:
+                - term [ref=e87]: Source of Wealth
+                - definition [ref=e88]: Trade finance revenue
+              - generic [ref=e89]:
+                - term [ref=e90]: Account Opened
+                - definition [ref=e91]: 11/20/2022
+          - generic [ref=e92]:
+            - heading "Alert Summary" [level=2] [ref=e93]
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - term [ref=e96]: Alert Type
+                - definition [ref=e97]: High-Risk Jurisdiction Transfer
+              - generic [ref=e98]:
+                - term [ref=e99]: Alert Date
+                - definition [ref=e100]: 4/8/2026
+              - generic [ref=e101]:
+                - term [ref=e102]: Total Amount
+                - definition [ref=e103]: $720,000.00
+              - generic [ref=e104]:
+                - term [ref=e105]: Reason
+                - definition [ref=e106]: Large transfers to and from entities in FATF grey-list jurisdictions with insufficient trade documentation.
+        - generic [ref=e107]:
+          - heading "Transactions (4)" [level=2] [ref=e108]
+          - generic [ref=e109]:
+            - generic [ref=e110]:
+              - generic [ref=e111]: IN
+              - generic [ref=e112]:
+                - generic [ref=e113]:
+                  - generic [ref=e114]: US$250,000.00
+                  - generic [ref=e115]: Jade Mountain Textiles Co
+                  - generic [ref=e116]: Myanmar
+                - paragraph [ref=e117]: Payment for garment shipment — LC ref JMT-2026-115 · 4/1/2026
+            - generic [ref=e118]:
+              - generic [ref=e119]: OUT
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - generic [ref=e122]: US$180,000.00
+                  - generic [ref=e123]: Crown Pacific Trading LLC
+                  - generic [ref=e124]: Cambodia
+                - paragraph [ref=e125]: Raw materials procurement — silk and cotton · 4/3/2026
+            - generic [ref=e126]:
+              - generic [ref=e127]: IN
+              - generic [ref=e128]:
+                - generic [ref=e129]:
+                  - generic [ref=e130]: US$190,000.00
+                  - generic [ref=e131]: Emerald Bay Holdings
+                  - generic [ref=e132]: Vanuatu
+                - paragraph [ref=e133]: Trade finance settlement · 4/5/2026
+            - generic [ref=e134]:
+              - generic [ref=e135]: OUT
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - generic [ref=e138]: US$100,000.00
+                  - generic [ref=e139]: Silverline Logistics International
+                  - generic [ref=e140]: Laos
+                - paragraph [ref=e141]: Shipping and logistics services · 4/7/2026
+        - generic [ref=e142]:
+          - heading "Risk Indicators" [level=2] [ref=e143]
+          - generic [ref=e144]:
+            - generic [ref=e145]: ⚠ FATF grey-list jurisdiction
+            - generic [ref=e146]: ⚠ Insufficient trade documentation
+            - generic [ref=e147]: ⚠ Complex layered transactions
+            - generic [ref=e148]: ⚠ Shell company indicators
+            - generic [ref=e149]: ⚠ Sanctions proximity
+        - generic [ref=e150]:
+          - heading "Investigation Notes (3)" [level=2] [ref=e151]
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - generic [ref=e154]:
+                - generic [ref=e155]: Transaction Review
+                - generic [ref=e156]: Sarah Chen
+                - generic [ref=e157]: 4/9/2026, 6:00:00 PM
+              - paragraph [ref=e158]: Reviewed four flagged transactions totalling USD 720,000. All involve entities in FATF grey-list or high-risk jurisdictions. Trade documentation provided is incomplete — missing bill of lading for Jade Mountain shipment and no verifiable contract with Emerald Bay Holdings.
+            - generic [ref=e159]:
+              - generic [ref=e160]:
+                - generic [ref=e161]: Counterparty Review
+                - generic [ref=e162]: Sarah Chen
+                - generic [ref=e163]: 4/10/2026, 10:30:00 PM
+              - paragraph [ref=e164]: Emerald Bay Holdings (Vanuatu) appears to be a shell entity — no physical office, no employees listed. Crown Pacific Trading (Cambodia) has minimal web presence and was recently incorporated. Silverline Logistics (Laos) cannot be verified through standard shipping directories.
+            - generic [ref=e165]:
+              - generic [ref=e166]:
+                - generic [ref=e167]: Decision Rationale
+                - generic [ref=e168]: Sarah Chen
+                - generic [ref=e169]: 4/11/2026, 5:00:00 PM
+              - paragraph [ref=e170]: Based on the involvement of shell entities, FATF grey-list jurisdictions, missing documentation, and transaction patterns inconsistent with legitimate textile trade, suspicion of money laundering is established. Recommending STR filing.
+        - generic [ref=e171]:
+          - heading "Add Investigation Note" [level=2] [ref=e172]
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - generic [ref=e175]: Note Type
+              - combobox "Note Type" [ref=e176]:
+                - option "Select note type…" [selected]
+                - option "Customer Profile Review"
+                - option "Transaction Review"
+                - option "Counterparty Review"
+                - option "Customer Outreach"
+                - option "Decision Rationale"
+            - generic [ref=e177]:
+              - generic [ref=e178]: Content
+              - textbox "Content" [ref=e179]:
+                - /placeholder: Enter investigation notes…
+            - button "Add Note" [ref=e181]
+        - generic [ref=e226]:
+          - heading "STR Filing Status" [level=2] [ref=e227]
+          - paragraph [ref=e228]: "Current status: Ready for Filing"
+          - generic [ref=e229]:
+            - generic [ref=e230]:
+              - generic [ref=e231]: Update Status
+              - combobox "Update Status" [ref=e232]:
+                - option "Select status…"
+                - option "Drafting"
+                - option "Ready for Filing"
+                - option "Filed" [selected]
+            - generic [ref=e249]:
+              - generic [ref=e250]: Filing Reference
+              - textbox "Filing Reference" [ref=e251]:
+                - /placeholder: Enter SONAR reference number…
+              - paragraph [ref=e255]: Filing reference is required
+            - generic [ref=e252]:
+              - generic [ref=e253]: Filing Date
+              - textbox "Filing Date" [ref=e254]
+              - paragraph [ref=e256]: Filing date is required
+            - button "Update Filing Status" [active] [ref=e234]
+        - generic [ref=e199]:
+          - heading "Audit Log" [level=2] [ref=e200]
+          - generic [ref=e201]:
+            - generic [ref=e245]:
+              - generic [ref=e246]: 5/4/2026, 4:50:02 PM
+              - generic [ref=e247]:
+                - text: Reviewer·Filing Status Updated
+                - paragraph [ref=e248]: Filing status changed to READY_FOR_FILING
+            - generic [ref=e240]:
+              - generic [ref=e241]: 5/4/2026, 4:49:39 PM
+              - generic [ref=e242]:
+                - text: Reviewer·Filing Status Updated
+                - paragraph [ref=e243]: Filing status changed to DRAFTING
+            - generic [ref=e235]:
+              - generic [ref=e236]: 5/4/2026, 4:49:03 PM
+              - generic [ref=e237]:
+                - text: Reviewer·Reviewer Decision
+                - paragraph [ref=e238]: "Decision: approved — status changed to APPROVED_FOR_STR_FILING"
+            - generic [ref=e202]:
+              - generic [ref=e203]: 4/11/2026, 5:30:00 PM
+              - generic [ref=e204]:
+                - text: Sarah Chen·Recommendation Submitted
+                - paragraph [ref=e205]: "Analyst recommendation: File STR — suspicion of trade-based money laundering established"
+            - generic [ref=e206]:
+              - generic [ref=e207]: 4/11/2026, 5:30:00 PM
+              - generic [ref=e208]:
+                - text: System·Status Changed
+                - paragraph [ref=e209]: Status changed from UNDER_REVIEW to PENDING_REVIEWER_APPROVAL
+            - generic [ref=e210]:
+              - generic [ref=e211]: 4/10/2026, 10:30:00 PM
+              - generic [ref=e212]:
+                - text: Sarah Chen·Note Added
+                - paragraph [ref=e213]: Counterparty Review note added
+            - generic [ref=e214]:
+              - generic [ref=e215]: 4/9/2026, 6:00:00 PM
+              - generic [ref=e216]:
+                - text: Sarah Chen·Note Added
+                - paragraph [ref=e217]: Transaction Review note added
+            - generic [ref=e218]:
+              - generic [ref=e219]: 4/9/2026, 5:00:00 PM
+              - generic [ref=e220]:
+                - text: Sarah Chen·Status Changed
+                - paragraph [ref=e221]: Status changed from NEW to UNDER_REVIEW
+            - generic [ref=e222]:
+              - generic [ref=e223]: 4/8/2026, 4:00:00 PM
+              - generic [ref=e224]:
+                - text: System·Case Created
+                - paragraph [ref=e225]: Case AML-2026-0021 created from automated alert — High-Risk Jurisdiction Transfer
+  - button "Open Next.js Dev Tools" [ref=e51] [cursor=pointer]:
+    - img [ref=e52]
+  - alert [ref=e55]

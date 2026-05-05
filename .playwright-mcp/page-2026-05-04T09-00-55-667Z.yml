@@ -1,0 +1,177 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - heading "AML Case Management" [level=1] [ref=e3]
+    - generic [ref=e4]:
+      - generic [ref=e5]: "Role:"
+      - combobox "Role:" [ref=e6]:
+        - option "Analyst"
+        - option "Reviewer"
+        - option "Operations Manager" [selected]
+  - generic [ref=e7]:
+    - navigation [ref=e8]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "📊 Dashboard" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e12]: 📊
+            - generic [ref=e13]: Dashboard
+        - listitem [ref=e14]:
+          - link "📁 Cases" [ref=e15] [cursor=pointer]:
+            - /url: /cases
+            - generic [ref=e16]: 📁
+            - generic [ref=e17]: Cases
+    - main [ref=e18]:
+      - generic [ref=e184]:
+        - generic [ref=e185]:
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - heading "AML-2026-0017" [level=1] [ref=e188]
+              - paragraph [ref=e189]: Meridian Star Trading Pte Ltd
+            - generic [ref=e190]: Under Review
+            - generic [ref=e191]:
+              - generic [ref=e192]: "82"
+              - generic [ref=e193]: (Critical)
+          - paragraph [ref=e194]: "Analyst: Sarah Chen"
+        - generic [ref=e195]:
+          - generic [ref=e196]:
+            - heading "Customer Profile" [level=2] [ref=e197]
+            - generic [ref=e198]:
+              - generic [ref=e199]:
+                - term [ref=e200]: Name
+                - definition [ref=e201]: Meridian Star Trading Pte Ltd
+              - generic [ref=e202]:
+                - term [ref=e203]: Type
+                - definition [ref=e204]: CORPORATE
+              - generic [ref=e205]:
+                - term [ref=e206]: Risk Rating
+                - definition [ref=e207]: MEDIUM
+              - generic [ref=e208]:
+                - term [ref=e209]: Nationality
+                - definition [ref=e210]: Singapore
+              - generic [ref=e211]:
+                - term [ref=e212]: Business Activity
+                - definition [ref=e213]: Regional electronics distributor — imports components from East Asia, resells to Southeast Asian markets
+              - generic [ref=e214]:
+                - term [ref=e215]: Source of Wealth
+                - definition [ref=e216]: Business revenue from electronics distribution
+              - generic [ref=e217]:
+                - term [ref=e218]: Account Opened
+                - definition [ref=e219]: 3/15/2021
+          - generic [ref=e220]:
+            - heading "Alert Summary" [level=2] [ref=e221]
+            - generic [ref=e222]:
+              - generic [ref=e223]:
+                - term [ref=e224]: Alert Type
+                - definition [ref=e225]: Rapid Movement of Funds
+              - generic [ref=e226]:
+                - term [ref=e227]: Alert Date
+                - definition [ref=e228]: 4/28/2026
+              - generic [ref=e229]:
+                - term [ref=e230]: Total Amount
+                - definition [ref=e231]: $480,000.00
+              - generic [ref=e232]:
+                - term [ref=e233]: Reason
+                - definition [ref=e234]: Multiple large transfers received and disbursed within 48 hours across unrelated counterparties in high-risk jurisdictions. Pattern inconsistent with declared electronics distribution business.
+        - generic [ref=e235]:
+          - heading "Transactions (4)" [level=2] [ref=e236]
+          - generic [ref=e237]:
+            - generic [ref=e238]:
+              - generic [ref=e239]: IN
+              - generic [ref=e240]:
+                - generic [ref=e241]:
+                  - generic [ref=e242]: US$150,000.00
+                  - generic [ref=e243]: Northstar Holdings Ltd
+                  - generic [ref=e244]: British Virgin Islands
+                - paragraph [ref=e245]: Payment for electronic components — Invoice NS-4401 · 4/10/2026
+            - generic [ref=e246]:
+              - generic [ref=e247]: OUT
+              - generic [ref=e248]:
+                - generic [ref=e249]:
+                  - generic [ref=e250]: US$145,000.00
+                  - generic [ref=e251]: Blue River Consulting SA
+                  - generic [ref=e252]: Panama
+                - paragraph [ref=e253]: Consulting services — contract BR-2026-088 · 4/11/2026
+            - generic [ref=e254]:
+              - generic [ref=e255]: IN
+              - generic [ref=e256]:
+                - generic [ref=e257]:
+                  - generic [ref=e258]: US$120,000.00
+                  - generic [ref=e259]: Golden Peak Enterprises
+                  - generic [ref=e260]: Myanmar
+                - paragraph [ref=e261]: Trade settlement — PO GP-7722 · 4/12/2026
+            - generic [ref=e262]:
+              - generic [ref=e263]: OUT
+              - generic [ref=e264]:
+                - generic [ref=e265]:
+                  - generic [ref=e266]: US$65,000.00
+                  - generic [ref=e267]: Apex Ventures International
+                  - generic [ref=e268]: Cayman Islands
+                - paragraph [ref=e269]: Investment advisory fees · 4/14/2026
+        - generic [ref=e270]:
+          - heading "Risk Indicators" [level=2] [ref=e271]
+          - generic [ref=e272]:
+            - generic [ref=e273]: ⚠ Rapid pass-through of funds
+            - generic [ref=e274]: ⚠ Unrelated counterparties
+            - generic [ref=e275]: ⚠ High-risk jurisdiction counterparty
+            - generic [ref=e276]: ⚠ Inconsistent with declared business activity
+        - generic [ref=e277]:
+          - heading "Investigation Notes (3)" [level=2] [ref=e278]
+          - generic [ref=e279]:
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - generic [ref=e282]: Customer Profile Review
+                - generic [ref=e283]: Sarah Chen
+                - generic [ref=e284]: 4/15/2026, 6:30:00 PM
+              - paragraph [ref=e285]: Reviewed customer profile. Meridian Star is registered as an electronics distributor but recent transaction patterns do not align with typical trade flows. No invoices for electronic goods match the counterparties involved in flagged transactions.
+            - generic [ref=e286]:
+              - generic [ref=e287]:
+                - generic [ref=e288]: Transaction Review
+                - generic [ref=e289]: Sarah Chen
+                - generic [ref=e290]: 4/16/2026, 5:15:00 PM
+              - paragraph [ref=e291]: Analyzed flagged transactions from 10-13 April 2026. Funds received from BVI and Myanmar entities were disbursed within 24-48 hours to Panama and Cayman Islands entities. Pass-through pattern with minimal retention. Amounts are inconsistent with declared trade volumes.
+            - generic [ref=e292]:
+              - generic [ref=e293]:
+                - generic [ref=e294]: Counterparty Review
+                - generic [ref=e295]: Sarah Chen
+                - generic [ref=e296]: 4/17/2026, 10:00:00 PM
+              - paragraph [ref=e297]: "Counterparty screening: Northstar Holdings (BVI) — no adverse media found but shell company indicators. Blue River Consulting (Panama) — limited online presence, no verifiable consulting operations. Golden Peak Enterprises (Myanmar) — flagged in FATF grey-list jurisdiction. Apex Ventures (Cayman) — registered investment entity with no public track record."
+        - generic [ref=e327]:
+          - heading "Audit Log" [level=2] [ref=e328]
+          - generic [ref=e329]:
+            - generic [ref=e330]:
+              - generic [ref=e331]: 4/17/2026, 10:00:00 PM
+              - generic [ref=e332]:
+                - text: Sarah Chen·Note Added
+                - paragraph [ref=e333]: Counterparty Review note added
+            - generic [ref=e334]:
+              - generic [ref=e335]: 4/16/2026, 5:15:00 PM
+              - generic [ref=e336]:
+                - text: Sarah Chen·Note Added
+                - paragraph [ref=e337]: Transaction Review note added
+            - generic [ref=e338]:
+              - generic [ref=e339]: 4/15/2026, 6:30:00 PM
+              - generic [ref=e340]:
+                - text: Sarah Chen·Note Added
+                - paragraph [ref=e341]: Customer Profile Review note added
+            - generic [ref=e342]:
+              - generic [ref=e343]: 4/15/2026, 5:00:00 PM
+              - generic [ref=e344]:
+                - text: Sarah Chen·Status Changed
+                - paragraph [ref=e345]: Status changed from NEW to UNDER_REVIEW
+            - generic [ref=e346]:
+              - generic [ref=e347]: 4/14/2026, 4:00:00 PM
+              - generic [ref=e348]:
+                - text: System·Case Created
+                - paragraph [ref=e349]: Case AML-2026-0017 created from automated alert — Rapid Movement of Funds
+  - generic [ref=e38] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e39]:
+      - img [ref=e40]
+    - generic [ref=e175]:
+      - button "Open issues overlay" [ref=e176]:
+        - generic [ref=e177]:
+          - generic [ref=e178]: "0"
+          - generic [ref=e179]: "1"
+        - generic [ref=e180]: Issue
+      - button "Collapse issues badge" [ref=e181]:
+        - img [ref=e182]
+  - alert [ref=e43]

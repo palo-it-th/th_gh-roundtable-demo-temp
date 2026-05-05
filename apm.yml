@@ -1,0 +1,23 @@
+name: aml-str-case-management
+version: 1.0.0
+description: Agent skills for the AML/STR case management demo platform
+dependencies:
+  apm:
+  - vercel-labs/next-skills/skills/next-best-practices
+  - vercel-labs/next-skills/skills/next-cache-components
+  - vercel-labs/agent-skills/skills/react-best-practices
+  - vercel-labs/agent-skills/skills/composition-patterns
+  - supabase/agent-skills/skills/supabase-postgres-best-practices
+  - trailofbits/skills/plugins/static-analysis
+  - addyosmani/web-quality-skills/skills/web-quality-audit
+  - addyosmani/web-quality-skills/skills/performance
+  - addyosmani/web-quality-skills/skills/core-web-vitals
+  mcp:
+  - name: playwright
+    registry: false
+    transport: stdio
+    command: npx
+    args:
+    - -y
+    - '@playwright/mcp@latest'
+scripts: {}

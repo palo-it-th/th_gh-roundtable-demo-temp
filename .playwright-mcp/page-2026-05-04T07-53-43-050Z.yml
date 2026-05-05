@@ -1,0 +1,113 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - heading "AML Case Management" [level=1] [ref=e3]
+    - generic [ref=e4]:
+      - generic [ref=e5]: "Role:"
+      - combobox "Role:" [ref=e6]:
+        - option "Analyst" [selected]
+        - option "Reviewer"
+        - option "Operations Manager"
+  - generic [ref=e7]:
+    - navigation [ref=e8]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "📊 Dashboard" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e12]: 📊
+            - generic [ref=e13]: Dashboard
+        - listitem [ref=e14]:
+          - link "📁 Cases" [ref=e15] [cursor=pointer]:
+            - /url: /cases
+            - generic [ref=e16]: 📁
+            - generic [ref=e17]: Cases
+    - main [ref=e18]:
+      - generic [ref=e44]:
+        - heading "Cases" [level=1] [ref=e45]
+        - generic [ref=e46]:
+          - textbox "Search by case number or customer name…" [active] [ref=e47]: Meridian
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e50]: Status
+              - combobox "Status" [ref=e51]:
+                - option "All Statuses" [selected]
+                - option "New"
+                - option "Under Review"
+                - option "Pending Information"
+                - option "Pending Reviewer Approval"
+                - option "Approved for STR Filing"
+                - option "Closed - No STR"
+                - option "Closed - STR Filed"
+            - generic [ref=e52]:
+              - generic [ref=e53]: Risk Rating
+              - combobox "Risk Rating" [ref=e54]:
+                - option "All Risk Ratings" [selected]
+                - option "Low"
+                - option "Medium"
+                - option "High"
+            - generic [ref=e55]:
+              - generic [ref=e56]: Sort By
+              - combobox "Sort By" [ref=e57]:
+                - option "Last Updated" [selected]
+                - option "Risk Score"
+        - table [ref=e59]:
+          - rowgroup [ref=e60]:
+            - 'row "Case # Customer Type Risk Rating Alert Type Risk Score Amount Status Analyst Updated" [ref=e61]':
+              - 'columnheader "Case #" [ref=e62]'
+              - columnheader "Customer" [ref=e63]
+              - columnheader "Type" [ref=e64]
+              - columnheader "Risk Rating" [ref=e65]
+              - columnheader "Alert Type" [ref=e66]
+              - columnheader "Risk Score" [ref=e67]
+              - columnheader "Amount" [ref=e68]
+              - columnheader "Status" [ref=e69]
+              - columnheader "Analyst" [ref=e70]
+              - columnheader "Updated" [ref=e71]
+          - rowgroup [ref=e72]:
+            - row "AML-2026-0005 Meridian Star Trading Pte Ltd CORPORATE MEDIUM Transaction Inconsistent with Profile 76 (Critical) $310,000 Closed (STR Filed) Sarah Chen 04/05/2026" [ref=e73] [cursor=pointer]:
+              - cell "AML-2026-0005" [ref=e74]:
+                - link "AML-2026-0005" [ref=e75]:
+                  - /url: /cases/cmoqwhudv001we73uiavki3xo
+              - cell "Meridian Star Trading Pte Ltd" [ref=e76]
+              - cell "CORPORATE" [ref=e77]
+              - cell "MEDIUM" [ref=e78]:
+                - generic [ref=e79]: MEDIUM
+              - cell "Transaction Inconsistent with Profile" [ref=e80]
+              - cell "76 (Critical)" [ref=e81]:
+                - generic [ref=e82]:
+                  - generic [ref=e83]: "76"
+                  - generic [ref=e84]: (Critical)
+              - cell "$310,000" [ref=e85]
+              - cell "Closed (STR Filed)" [ref=e86]:
+                - generic [ref=e87]: Closed (STR Filed)
+              - cell "Sarah Chen" [ref=e88]
+              - cell "04/05/2026" [ref=e89]
+            - row "AML-2026-0017 Meridian Star Trading Pte Ltd CORPORATE MEDIUM Rapid Movement of Funds 82 (Critical) $480,000 Under Review Sarah Chen 04/05/2026" [ref=e158] [cursor=pointer]:
+              - cell "AML-2026-0017" [ref=e159]:
+                - link "AML-2026-0017" [ref=e160]:
+                  - /url: /cases/cmoqwhudb0006e73usxhos8jd
+              - cell "Meridian Star Trading Pte Ltd" [ref=e161]
+              - cell "CORPORATE" [ref=e162]
+              - cell "MEDIUM" [ref=e163]:
+                - generic [ref=e164]: MEDIUM
+              - cell "Rapid Movement of Funds" [ref=e165]
+              - cell "82 (Critical)" [ref=e166]:
+                - generic [ref=e167]:
+                  - generic [ref=e168]: "82"
+                  - generic [ref=e169]: (Critical)
+              - cell "$480,000" [ref=e170]
+              - cell "Under Review" [ref=e171]:
+                - generic [ref=e172]: Under Review
+              - cell "Sarah Chen" [ref=e173]
+              - cell "04/05/2026" [ref=e174]
+  - generic [ref=e38] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e39]:
+      - img [ref=e40]
+    - generic [ref=e175]:
+      - button "Open issues overlay" [ref=e176]:
+        - generic [ref=e177]:
+          - generic [ref=e178]: "0"
+          - generic [ref=e179]: "1"
+        - generic [ref=e180]: Issue
+      - button "Collapse issues badge" [ref=e181]:
+        - img [ref=e182]
+  - alert [ref=e43]

@@ -1,0 +1,162 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─── Enums ───────────────────────────────────────────────
+
+enum CustomerType {
+  INDIVIDUAL
+  CORPORATE
+}
+
+enum RiskRating {
+  LOW
+  MEDIUM
+  HIGH
+}
+
+enum CaseStatus {
+  NEW
+  UNDER_REVIEW
+  PENDING_INFORMATION
+  PENDING_REVIEWER_APPROVAL
+  APPROVED_FOR_STR_FILING
+  CLOSED_NO_STR
+  CLOSED_STR_FILED
+}
+
+enum TransactionDirection {
+  INCOMING
+  OUTGOING
+}
+
+enum NoteType {
+  CUSTOMER_PROFILE_REVIEW
+  TRANSACTION_REVIEW
+  COUNTERPARTY_REVIEW
+  CUSTOMER_OUTREACH
+  DECISION_RATIONALE
+}
+
+enum FilingStatus {
+  NOT_STARTED
+  DRAFTING
+  READY_FOR_FILING
+  FILED
+}
+
+// ─── Models ──────────────────────────────────────────────
+
+model Customer {
+  id               String       @id @default(cuid())
+  name             String
+  type             CustomerType
+  riskRating       RiskRating
+  businessActivity String
+  accountOpenDate  DateTime
+  sourceOfWealth   String
+  nationality      String
+  createdAt        DateTime     @default(now())
+  updatedAt        DateTime     @updatedAt
+
+  cases            AmlCase[]
+
+  @@map("customers")
+}
+
+model AmlCase {
+  id               String     @id @default(cuid())
+  caseNumber       String     @unique
+  customerId       String
+  status           CaseStatus @default(NEW)
+  riskScore        Int        // 0-100
+  alertType        String
+  alertReason      String
+  riskIndicators   Json       // string[]
+  totalAmount      Float
+  assignedAnalyst  String
+  createdAt        DateTime   @default(now())
+  updatedAt        DateTime   @updatedAt
+
+  customer         Customer            @relation(fields: [customerId], references: [id])
+  transactions     Transaction[]
+  notes            InvestigationNote[]
+  decision         StrDecision?
+  auditLog         AuditLog[]
+
+  @@index([status])
+  @@index([riskScore])
+  @@index([customerId])
+  @@map("aml_cases")
+}
+
+model Transaction {
+  id           String               @id @default(cuid())
+  caseId       String
+  direction    TransactionDirection
+  amount       Float
+  currency     String               @default("SGD")
+  counterparty String
+  country      String
+  date         DateTime
+  purpose      String
+  createdAt    DateTime             @default(now())
+
+  case         AmlCase              @relation(fields: [caseId], references: [id])
+
+  @@index([caseId])
+  @@map("transactions")
+}
+
+model InvestigationNote {
+  id        String   @id @default(cuid())
+  caseId    String
+  noteType  NoteType
+  author    String
+  content   String
+  createdAt DateTime @default(now())
+
+  case      AmlCase  @relation(fields: [caseId], references: [id])
+
+  @@index([caseId])
+  @@map("investigation_notes")
+}
+
+model StrDecision {
+  id                     String       @id @default(cuid())
+  caseId                 String       @unique
+  suspicionEstablished   Boolean?
+  suspicionReason        String?
+  analystRecommendation  String?
+  reviewerDecision       String?      // "approved" | "returned"
+  reviewerComment        String?
+  filingStatus           FilingStatus @default(NOT_STARTED)
+  filingReference        String?
+  filedAt                DateTime?
+  createdAt              DateTime     @default(now())
+  updatedAt              DateTime     @updatedAt
+
+  case                   AmlCase      @relation(fields: [caseId], references: [id])
+
+  @@map("str_decisions")
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  caseId    String
+  actor     String
+  action    String
+  details   String
+  timestamp DateTime @default(now())
+
+  case      AmlCase  @relation(fields: [caseId], references: [id])
+
+  @@index([caseId])
+  @@index([timestamp])
+  @@map("audit_log")
+}

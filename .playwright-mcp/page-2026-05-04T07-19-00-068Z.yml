@@ -1,0 +1,150 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - heading "AML Case Management" [level=1] [ref=e3]
+    - generic [ref=e4]:
+      - generic [ref=e5]: "Role:"
+      - combobox "Role:" [ref=e6]:
+        - option "Analyst" [selected]
+        - option "Reviewer"
+        - option "Operations Manager"
+  - generic [ref=e7]:
+    - navigation [ref=e8]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "📊 Dashboard" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e12]: 📊
+            - generic [ref=e13]: Dashboard
+        - listitem [ref=e14]:
+          - link "📁 Cases" [ref=e15] [cursor=pointer]:
+            - /url: /cases
+            - generic [ref=e16]: 📁
+            - generic [ref=e17]: Cases
+    - main [ref=e18]:
+      - generic [ref=e19]:
+        - heading "Cases" [level=1] [ref=e20]
+        - table [ref=e22]:
+          - rowgroup [ref=e23]:
+            - 'row "Case # Customer Type Risk Rating Alert Type Risk Score Amount Status Analyst Updated" [ref=e24]':
+              - 'columnheader "Case #" [ref=e25]'
+              - columnheader "Customer" [ref=e26]
+              - columnheader "Type" [ref=e27]
+              - columnheader "Risk Rating" [ref=e28]
+              - columnheader "Alert Type" [ref=e29]
+              - columnheader "Risk Score" [ref=e30]
+              - columnheader "Amount" [ref=e31]
+              - columnheader "Status" [ref=e32]
+              - columnheader "Analyst" [ref=e33]
+              - columnheader "Updated" [ref=e34]
+          - rowgroup [ref=e35]:
+            - row "AML-2026-0005 Meridian Star Trading Pte Ltd CORPORATE MEDIUM Transaction Inconsistent with Profile 76 (Critical) $310,000 Closed (STR Filed) Sarah Chen 5/4/2026" [ref=e36]:
+              - cell "AML-2026-0005" [ref=e37]:
+                - link "AML-2026-0005" [ref=e38] [cursor=pointer]:
+                  - /url: /cases/cmoqv9vsy001we7cvp0iudejo
+              - cell "Meridian Star Trading Pte Ltd" [ref=e39]
+              - cell "CORPORATE" [ref=e40]
+              - cell "MEDIUM" [ref=e41]:
+                - generic [ref=e42]: MEDIUM
+              - cell "Transaction Inconsistent with Profile" [ref=e43]
+              - cell "76 (Critical)" [ref=e44]:
+                - generic [ref=e45]:
+                  - generic [ref=e46]: "76"
+                  - generic [ref=e47]: (Critical)
+              - cell "$310,000" [ref=e48]
+              - cell "Closed (STR Filed)" [ref=e49]:
+                - generic [ref=e50]: Closed (STR Filed)
+              - cell "Sarah Chen" [ref=e51]
+              - cell "5/4/2026" [ref=e52]
+            - row "AML-2026-0023 Tan Rui En INDIVIDUAL LOW Dormant Account Reactivated 38 (Medium) $62,000 Pending Information James Wong 5/4/2026" [ref=e53]:
+              - cell "AML-2026-0023" [ref=e54]:
+                - link "AML-2026-0023" [ref=e55] [cursor=pointer]:
+                  - /url: /cases/cmoqv9vsv001le7cv95knmpfx
+              - cell "Tan Rui En" [ref=e56]
+              - cell "INDIVIDUAL" [ref=e57]
+              - cell "LOW" [ref=e58]:
+                - generic [ref=e59]: LOW
+              - cell "Dormant Account Reactivated" [ref=e60]
+              - cell "38 (Medium)" [ref=e61]:
+                - generic [ref=e62]:
+                  - generic [ref=e63]: "38"
+                  - generic [ref=e64]: (Medium)
+              - cell "$62,000" [ref=e65]
+              - cell "Pending Information" [ref=e66]:
+                - generic [ref=e67]: Pending Information
+              - cell "James Wong" [ref=e68]
+              - cell "5/4/2026" [ref=e69]
+            - row "AML-2026-0009 Asha Global Services Pte Ltd CORPORATE MEDIUM Multiple Unrelated Counterparties 45 (Medium) $95,000 New James Wong 5/4/2026" [ref=e70]:
+              - cell "AML-2026-0009" [ref=e71]:
+                - link "AML-2026-0009" [ref=e72] [cursor=pointer]:
+                  - /url: /cases/cmoqv9vss001fe7cv7md6006w
+              - cell "Asha Global Services Pte Ltd" [ref=e73]
+              - cell "CORPORATE" [ref=e74]
+              - cell "MEDIUM" [ref=e75]:
+                - generic [ref=e76]: MEDIUM
+              - cell "Multiple Unrelated Counterparties" [ref=e77]
+              - cell "45 (Medium)" [ref=e78]:
+                - generic [ref=e79]:
+                  - generic [ref=e80]: "45"
+                  - generic [ref=e81]: (Medium)
+              - cell "$95,000" [ref=e82]
+              - cell "New" [ref=e83]:
+                - generic [ref=e84]: New
+              - cell "James Wong" [ref=e85]
+              - cell "5/4/2026" [ref=e86]
+            - row "AML-2026-0021 Eastern Horizon Imports Pte Ltd CORPORATE HIGH High-Risk Jurisdiction Transfer 91 (Critical) $720,000 Pending Approval Sarah Chen 5/4/2026" [ref=e87]:
+              - cell "AML-2026-0021" [ref=e88]:
+                - link "AML-2026-0021" [ref=e89] [cursor=pointer]:
+                  - /url: /cases/cmoqv9vso000ye7cvbbnpbdcn
+              - cell "Eastern Horizon Imports Pte Ltd" [ref=e90]
+              - cell "CORPORATE" [ref=e91]
+              - cell "HIGH" [ref=e92]:
+                - generic [ref=e93]: HIGH
+              - cell "High-Risk Jurisdiction Transfer" [ref=e94]
+              - cell "91 (Critical)" [ref=e95]:
+                - generic [ref=e96]:
+                  - generic [ref=e97]: "91"
+                  - generic [ref=e98]: (Critical)
+              - cell "$720,000" [ref=e99]
+              - cell "Pending Approval" [ref=e100]:
+                - generic [ref=e101]: Pending Approval
+              - cell "Sarah Chen" [ref=e102]
+              - cell "5/4/2026" [ref=e103]
+            - row "AML-2026-0012 Lim Wei Hao INDIVIDUAL LOW Unusual Transaction Volume 28 (Medium) $35,000 Closed (No STR) James Wong 5/4/2026" [ref=e104]:
+              - cell "AML-2026-0012" [ref=e105]:
+                - link "AML-2026-0012" [ref=e106] [cursor=pointer]:
+                  - /url: /cases/cmoqv9vsj000ke7cvcue17j82
+              - cell "Lim Wei Hao" [ref=e107]
+              - cell "INDIVIDUAL" [ref=e108]
+              - cell "LOW" [ref=e109]:
+                - generic [ref=e110]: LOW
+              - cell "Unusual Transaction Volume" [ref=e111]
+              - cell "28 (Medium)" [ref=e112]:
+                - generic [ref=e113]:
+                  - generic [ref=e114]: "28"
+                  - generic [ref=e115]: (Medium)
+              - cell "$35,000" [ref=e116]
+              - cell "Closed (No STR)" [ref=e117]:
+                - generic [ref=e118]: Closed (No STR)
+              - cell "James Wong" [ref=e119]
+              - cell "5/4/2026" [ref=e120]
+            - row "AML-2026-0017 Meridian Star Trading Pte Ltd CORPORATE MEDIUM Rapid Movement of Funds 82 (Critical) $480,000 Under Review Sarah Chen 5/4/2026" [ref=e121]:
+              - cell "AML-2026-0017" [ref=e122]:
+                - link "AML-2026-0017" [ref=e123] [cursor=pointer]:
+                  - /url: /cases/cmoqv9vsd0006e7cvfie43ry1
+              - cell "Meridian Star Trading Pte Ltd" [ref=e124]
+              - cell "CORPORATE" [ref=e125]
+              - cell "MEDIUM" [ref=e126]:
+                - generic [ref=e127]: MEDIUM
+              - cell "Rapid Movement of Funds" [ref=e128]
+              - cell "82 (Critical)" [ref=e129]:
+                - generic [ref=e130]:
+                  - generic [ref=e131]: "82"
+                  - generic [ref=e132]: (Critical)
+              - cell "$480,000" [ref=e133]
+              - cell "Under Review" [ref=e134]:
+                - generic [ref=e135]: Under Review
+              - cell "Sarah Chen" [ref=e136]
+              - cell "5/4/2026" [ref=e137]
+  - button "Open Next.js Dev Tools" [ref=e143] [cursor=pointer]:
+    - img [ref=e144]
+  - alert [ref=e147]

@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest"
+      ]
+    },
+    "pdf-reader": {
+      "command": "npx",
+      "args": ["@sylphx/pdf-reader-mcp"]
+    }
+  },
+  "inputs": []
+}

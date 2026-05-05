@@ -1,0 +1,12 @@
+logs/
+node_modules/
+.env
+.next/
+coverage/
+
+# APM dependencies
+apm_modules/
+
+# macOS
+.DS_Store
+**/.DS_Store

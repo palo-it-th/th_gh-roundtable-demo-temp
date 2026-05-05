@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionStart": [
+      {
+        "type": "command",
+        "bash": ".github/scripts/hooks/session-init.sh",
+        "timeoutSec": 10
+      }
+    ],
+    "preToolUse": [
+      {
+        "type": "command",
+        "bash": ".github/scripts/hooks/security-check.sh",
+        "timeoutSec": 15
+      }
+    ],
+    "postToolUse": [
+      {
+        "type": "command",
+        "bash": ".github/scripts/hooks/post-tool-audit.sh",
+        "timeoutSec": 10
+      }
+    ],
+    "subagentStop": [
+      {
+        "type": "command",
+        "bash": ".github/scripts/hooks/subagent-complete.sh",
+        "timeoutSec": 10
+      }
+    ],
+    "sessionEnd": [
+      {
+        "type": "command",
+        "bash": ".github/scripts/hooks/session-summary.sh",
+        "timeoutSec": 30
+      }
+    ]
+  }
+}

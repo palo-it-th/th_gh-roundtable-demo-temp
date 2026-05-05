@@ -1,0 +1,186 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - heading "AML Case Management" [level=1] [ref=e3]
+    - generic [ref=e4]:
+      - generic [ref=e5]: "Role:"
+      - combobox "Role:" [ref=e6]:
+        - option "Analyst" [selected]
+        - option "Reviewer"
+        - option "Operations Manager"
+  - generic [ref=e7]:
+    - navigation [ref=e8]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "📊 Dashboard" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e12]: 📊
+            - generic [ref=e13]: Dashboard
+        - listitem [ref=e14]:
+          - link "📁 Cases" [ref=e15] [cursor=pointer]:
+            - /url: /cases
+            - generic [ref=e16]: 📁
+            - generic [ref=e17]: Cases
+    - main [ref=e18]:
+      - generic [ref=e84]:
+        - generic [ref=e56]:
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - heading "AML-2026-0023" [level=1] [ref=e59]
+              - paragraph [ref=e60]: Tan Rui En
+            - generic [ref=e61]: Pending Information
+            - generic [ref=e62]:
+              - generic [ref=e63]: "38"
+              - generic [ref=e64]: (Medium)
+          - paragraph [ref=e65]: "Analyst: James Wong"
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - heading "Customer Profile" [level=2] [ref=e87]
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - term [ref=e90]: Name
+                - definition [ref=e91]: Tan Rui En
+              - generic [ref=e92]:
+                - term [ref=e93]: Type
+                - definition [ref=e94]: INDIVIDUAL
+              - generic [ref=e95]:
+                - term [ref=e96]: Risk Rating
+                - definition [ref=e97]: LOW
+              - generic [ref=e98]:
+                - term [ref=e99]: Nationality
+                - definition [ref=e100]: Singapore
+              - generic [ref=e101]:
+                - term [ref=e102]: Business Activity
+                - definition [ref=e103]: Retired — previously in property management
+              - generic [ref=e104]:
+                - term [ref=e105]: Source of Wealth
+                - definition [ref=e106]: Retirement savings and CPF
+              - generic [ref=e107]:
+                - term [ref=e108]: Account Opened
+                - definition [ref=e109]: 2/28/2015
+          - generic [ref=e110]:
+            - heading "Alert Summary" [level=2] [ref=e111]
+            - generic [ref=e112]:
+              - generic [ref=e113]:
+                - term [ref=e114]: Alert Type
+                - definition [ref=e115]: Dormant Account Reactivated
+              - generic [ref=e116]:
+                - term [ref=e117]: Alert Date
+                - definition [ref=e118]: 4/27/2026
+              - generic [ref=e119]:
+                - term [ref=e120]: Total Amount
+                - definition [ref=e121]: $62,000.00
+              - generic [ref=e122]:
+                - term [ref=e123]: Reason
+                - definition [ref=e124]: Account dormant for 18 months suddenly reactivated with significant inbound transfers from overseas.
+        - generic [ref=e125]:
+          - heading "Transactions (3)" [level=2] [ref=e126]
+          - generic [ref=e127]:
+            - generic [ref=e128]:
+              - generic [ref=e129]: IN
+              - generic [ref=e130]:
+                - generic [ref=e131]:
+                  - generic [ref=e132]: $25,000.00
+                  - generic [ref=e133]: Tan Mei Ling
+                  - generic [ref=e134]: Malaysia
+                - paragraph [ref=e135]: Family remittance · 4/25/2026
+            - generic [ref=e136]:
+              - generic [ref=e137]: IN
+              - generic [ref=e138]:
+                - generic [ref=e139]:
+                  - generic [ref=e140]: $22,000.00
+                  - generic [ref=e141]: Horizon Property Management
+                  - generic [ref=e142]: Malaysia
+                - paragraph [ref=e143]: Rental income from overseas property · 4/26/2026
+            - generic [ref=e144]:
+              - generic [ref=e145]: OUT
+              - generic [ref=e146]:
+                - generic [ref=e147]:
+                  - generic [ref=e148]: $15,000.00
+                  - generic [ref=e149]: Great Eastern Life Assurance
+                  - generic [ref=e150]: Singapore
+                - paragraph [ref=e151]: Life insurance premium — annual payment · 4/28/2026
+        - generic [ref=e152]:
+          - heading "Risk Indicators" [level=2] [ref=e153]
+          - generic [ref=e154]:
+            - generic [ref=e155]: ⚠ Dormant account reactivation
+            - generic [ref=e156]: ⚠ Overseas transfers after inactivity
+            - generic [ref=e157]: ⚠ Inconsistent with retirement profile
+        - generic [ref=e158]:
+          - heading "Investigation Notes (2)" [level=2] [ref=e159]
+          - generic [ref=e160]:
+            - generic [ref=e161]:
+              - generic [ref=e162]:
+                - generic [ref=e163]: Customer Profile Review
+                - generic [ref=e164]: James Wong
+                - generic [ref=e165]: 4/29/2026, 6:00:00 PM
+              - paragraph [ref=e166]: "Customer is retired, account was dormant since October 2024. Reactivation coincides with transfers from Malaysia. Need to verify: (1) relationship with Tan Mei Ling, (2) property ownership records in Malaysia, (3) source of rental income."
+            - generic [ref=e167]:
+              - generic [ref=e168]:
+                - generic [ref=e169]: Customer Outreach
+                - generic [ref=e170]: James Wong
+                - generic [ref=e171]: 4/30/2026, 10:00:00 PM
+              - paragraph [ref=e172]: Contacted customer via registered phone number. Customer states Tan Mei Ling is his daughter based in Kuala Lumpur. Claims to own a rental property in Penang. Requested supporting documents — property deed and tenancy agreement. Customer agreed to provide within 7 working days.
+        - generic [ref=e173]:
+          - heading "Add Investigation Note" [level=2] [ref=e174]
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - generic [ref=e177]: Note Type
+              - combobox "Note Type" [ref=e178]:
+                - option "Select note type…" [selected]
+                - option "Customer Profile Review"
+                - option "Transaction Review"
+                - option "Counterparty Review"
+                - option "Customer Outreach"
+                - option "Decision Rationale"
+            - generic [ref=e179]:
+              - generic [ref=e180]: Content
+              - textbox "Content" [ref=e181]:
+                - /placeholder: Enter investigation notes…
+            - button "Add Note" [ref=e183]
+        - generic [ref=e66]:
+          - heading "STR Recommendation" [level=2] [ref=e67]
+          - generic [ref=e68]:
+            - group "Suspicion Established" [ref=e69]:
+              - generic [ref=e70]: Suspicion Established
+              - generic [ref=e71]:
+                - generic [ref=e72]:
+                  - radio "Yes" [ref=e73]
+                  - text: "Yes"
+                - generic [ref=e74]:
+                  - radio "No" [checked] [active] [ref=e75]
+                  - text: "No"
+            - generic [ref=e76]:
+              - generic [ref=e77]: Rationale
+              - textbox "Rationale" [ref=e78]:
+                - /placeholder: Explain the basis for your assessment…
+            - generic [ref=e79]:
+              - generic [ref=e80]: Recommendation
+              - textbox "Recommendation" [ref=e81]:
+                - /placeholder: State your recommendation…
+            - button "Submit Recommendation" [ref=e83]
+        - generic [ref=e184]:
+          - heading "Audit Log" [level=2] [ref=e185]
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e188]: 4/30/2026, 10:30:00 PM
+              - generic [ref=e189]:
+                - text: James Wong·Status Changed
+                - paragraph [ref=e190]: Status changed from UNDER_REVIEW to PENDING_INFORMATION — awaiting customer documents
+            - generic [ref=e191]:
+              - generic [ref=e192]: 4/29/2026, 6:00:00 PM
+              - generic [ref=e193]:
+                - text: James Wong·Note Added
+                - paragraph [ref=e194]: Customer Profile Review note added
+            - generic [ref=e195]:
+              - generic [ref=e196]: 4/28/2026, 5:00:00 PM
+              - generic [ref=e197]:
+                - text: James Wong·Status Changed
+                - paragraph [ref=e198]: Status changed from NEW to UNDER_REVIEW
+            - generic [ref=e199]:
+              - generic [ref=e200]: 4/27/2026, 4:00:00 PM
+              - generic [ref=e201]:
+                - text: System·Case Created
+                - paragraph [ref=e202]: Case AML-2026-0023 created from automated alert — Dormant Account Reactivated
+  - button "Open Next.js Dev Tools" [ref=e51] [cursor=pointer]:
+    - img [ref=e52]
+  - alert [ref=e55]
