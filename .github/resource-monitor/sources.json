@@ -1,0 +1,38 @@
+{
+  "description": "External resources to monitor for changes. The scheduled agent will fetch each source, compute a content hash, and trigger updates when changes are detected.",
+  "sources": [
+    {
+      "id": "mas-notice-626",
+      "name": "MAS Notice 626 - Prevention of Money Laundering and Countering the Financing of Terrorism",
+      "url": "https://www.mas.gov.sg/regulation/notices/notice-626",
+      "type": "webpage",
+      "selector": "main",
+      "relevance": "Core regulatory notice governing AML/CFT requirements for banks in Singapore. Changes here require immediate compliance updates.",
+      "update_scope": ["docs/reference/aml-domain-knowledge.md", "lib/validations.ts", "prisma/schema.prisma"]
+    },
+    {
+      "id": "fatf-greylist",
+      "name": "FATF Jurisdictions under Increased Monitoring (Grey List)",
+      "url": "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
+      "type": "webpage",
+      "selector": "article",
+      "relevance": "FATF grey/black list changes affect EDD triggers and risk scoring logic. Country list updates require risk model recalibration.",
+      "update_scope": ["lib/types.ts", "docs/reference/aml-domain-knowledge.md"]
+    },
+    {
+      "id": "mas-aml-guidelines",
+      "name": "MAS Guidelines to Notice 626",
+      "url": "https://www.mas.gov.sg/regulation/guidelines/guidelines-to-notice-626",
+      "type": "webpage",
+      "selector": "main",
+      "relevance": "Interpretive guidelines for Notice 626 implementation. Changes affect investigation workflows and STR filing procedures.",
+      "update_scope": ["docs/reference/aml-domain-knowledge.md", "components/case-detail/"]
+    }
+  ],
+  "settings": {
+    "check_interval_cron": "0 6 * * 1",
+    "content_hash_algorithm": "sha256",
+    "max_retries": 3,
+    "timeout_seconds": 30
+  }
+}
