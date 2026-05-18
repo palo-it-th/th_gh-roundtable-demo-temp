@@ -23,7 +23,7 @@ function makeRequest(body: unknown): Request {
 const validDecisionBody = {
   suspicionEstablished: true,
   suspicionReason: 'Multiple high-value transfers to shell companies',
-  analystRecommendation: 'File STR with STRO',
+  analystRecommendation: 'File STR with AMLO',
 };
 
 const createdDecision = {
@@ -31,7 +31,7 @@ const createdDecision = {
   caseId: 'case-1',
   suspicionEstablished: true,
   suspicionReason: 'Multiple high-value transfers to shell companies',
-  analystRecommendation: 'File STR with STRO',
+  analystRecommendation: 'File STR with AMLO',
   filingStatus: 'NOT_STARTED',
 };
 

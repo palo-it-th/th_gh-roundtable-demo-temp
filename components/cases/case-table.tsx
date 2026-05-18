@@ -11,9 +11,9 @@ interface CaseTableProps {
 }
 
 function formatCurrency(amount: number): string {
-  return new Intl.NumberFormat("en-SG", {
+  return new Intl.NumberFormat("th-TH", {
     style: "currency",
-    currency: "SGD",
+    currency: "THB",
     minimumFractionDigits: 0,
     maximumFractionDigits: 0,
   }).format(amount);

@@ -1,10 +1,10 @@
 # AML / STR Case Management Platform
 
-A compliance case management platform for Singapore-based banks to investigate AML alerts, assess risk, and file Suspicious Transaction Reports (STRs) with STRO via SONAR.
+A compliance case management platform for Thai commercial banks to investigate AML alerts, assess risk, and file Suspicious Transaction Reports (STRs) with AMLO under the Anti-Money Laundering Act B.E. 2542.
 
 ## Overview
 
-This platform enables compliance officers — **AML Analysts**, **Compliance Reviewers**, and **Operations Managers** — to manage the full lifecycle of anti-money laundering investigations. Built for Singapore's AML/CFT regulatory framework (MAS Notice 626), it supports alert triage, customer due diligence, transaction analysis, STR decision workflows, and immutable audit logging.
+This platform enables compliance officers — **AML Analysts**, **Compliance Reviewers**, and **Operations Managers** — to manage the full lifecycle of anti-money laundering investigations. Built for Thailand's AML/CFT regulatory framework (AMLA B.E. 2542, BOT supervision, and AMLO reporting), it supports alert triage, customer due diligence, transaction analysis, STR decision workflows, and immutable audit logging.
 
 ## Features
 
@@ -130,22 +130,22 @@ The seed script creates **5 customers** and **6 AML cases** spanning the full in
 
 | Case | Customer | Risk Score | Status | Scenario |
 |------|----------|-----------|--------|----------|
-| AML-2026-0017 | Meridian Star Trading Pte Ltd | 82 | Under Review | Rapid fund pass-through via BVI/Panama entities |
-| AML-2026-0021 | Eastern Horizon Imports Pte Ltd | 91 | Pending Reviewer Approval | Trade-based ML through FATF grey-list jurisdictions |
-| AML-2026-0009 | Asha Global Services Pte Ltd | 45 | New | Payments to unrelated cross-industry counterparties |
-| AML-2026-0023 | Tan Rui En | 38 | Pending Information | Dormant account reactivated with overseas transfers |
-| AML-2026-0012 | Lim Wei Hao | 28 | Closed — No STR | Volume spike explained by bonus and CPF withdrawal |
-| AML-2026-0005 | Meridian Star Trading Pte Ltd | 76 | Closed — STR Filed | Corporate funds diverted to property and offshore trust |
+| AML-2026-0017 | Siam Golden Trading Co., Ltd | 82 | Under Review | Cross-border remittance to Myanmar exceeding THB 2M |
+| AML-2026-0021 | Eastern Star Imports Co., Ltd | 91 | Pending Reviewer Approval | Trade-based ML through FATF grey-list jurisdictions (Myanmar, Laos) |
+| AML-2026-0009 | Thanakit Consulting Co., Ltd | 45 | New | Payments to unrelated cross-industry counterparties |
+| AML-2026-0023 | Somying Jantarakul | 38 | Pending Information | Dormant account reactivated with overseas transfers |
+| AML-2026-0012 | Piyawat Srisomboon | 28 | Closed — No STR | Volume spike explained by bonus and Social Security Fund |
+| AML-2026-0005 | Siam Golden Trading Co., Ltd | 76 | Closed — STR Filed | Corporate funds diverted to property and offshore trust |
 
 ### Customers
 
 | Customer | Type | Risk Rating | Profile |
 |----------|------|------------|---------|
-| Meridian Star Trading Pte Ltd | Corporate | Medium | Electronics distributor — 2 linked cases |
-| Lim Wei Hao | Individual | Low | Software engineer — legitimate activity |
-| Eastern Horizon Imports Pte Ltd | Corporate | High | Textile import/export — shell company indicators |
-| Asha Global Services Pte Ltd | Corporate | Medium | IT consulting — unrelated counterparties |
-| Tan Rui En | Individual | Low | Retired — dormant account reactivated |
+| Siam Golden Trading Co., Ltd | Corporate | Medium | Gold and jewelry dealer — 2 linked cases |
+| Piyawat Srisomboon | Individual | Low | Software engineer — legitimate activity |
+| Eastern Star Imports Co., Ltd | Corporate | High | Import/export textiles — shell company indicators |
+| Thanakit Consulting Co., Ltd | Corporate | Medium | IT consulting — unrelated counterparties |
+| Somying Jantarakul | Individual | Low | Retired — dormant account reactivated |
 
 ## Role Simulation
 
@@ -160,7 +160,7 @@ The platform simulates three compliance roles via a client-side role selector in
 ## Known Limitations
 
 - **No real authentication** — roles are simulated via client-side React context; a production system would use SSO/RBAC
-- **No STRO/SONAR integration** — STR filing status is tracked locally; production would integrate with Singapore's SONAR reporting system
+- **No AMLO integration** — STR filing status is tracked locally; production would integrate with AMLO's electronic reporting system
 - **Float for monetary amounts** — `Float` type used in Prisma schema; production should use `Decimal` to avoid precision issues
 - **No document upload** — investigation notes are text-only; production would support file attachments for supporting evidence
 - **No real-time notifications** — no WebSocket or polling for case updates; users must refresh to see changes

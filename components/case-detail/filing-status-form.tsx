@@ -176,7 +176,7 @@ export function FilingStatusForm({
                     setErrors((prev) => ({ ...prev, filingReference: undefined }));
                 }}
                 disabled={isSubmitting}
-                placeholder="Enter SONAR reference number…"
+                placeholder="Enter AMLO filing reference number…"
                 className="mt-1 w-full rounded border border-card-border bg-surface-base px-3 py-2 font-mono text-sm text-text-primary placeholder:text-text-muted focus:border-primary focus:outline-none disabled:opacity-35"
                 data-testid="filing-reference-input"
               />

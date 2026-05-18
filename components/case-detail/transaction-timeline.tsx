@@ -41,7 +41,7 @@ export function TransactionTimeline({ transactions }: TransactionTimelineProps):
               <div className="min-w-0 flex-1">
                 <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
                   <span className="font-mono font-medium text-text-primary">
-                    {new Intl.NumberFormat("en-SG", {
+                    {new Intl.NumberFormat("th-TH", {
                       style: "currency",
                       currency: tx.currency,
                     }).format(tx.amount)}

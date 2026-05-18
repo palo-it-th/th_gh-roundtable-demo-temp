@@ -33,9 +33,9 @@ export function AlertSummaryPanel({
         <div>
           <dt className="text-text-muted">Total Amount</dt>
           <dd className="mt-0.5 font-mono text-text-primary">
-            {new Intl.NumberFormat("en-SG", {
+            {new Intl.NumberFormat("th-TH", {
               style: "currency",
-              currency: "SGD",
+              currency: "THB",
             }).format(totalAmount)}
           </dd>
         </div>

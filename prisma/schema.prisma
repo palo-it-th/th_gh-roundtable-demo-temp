@@ -100,7 +100,7 @@ model Transaction {
   caseId       String
   direction    TransactionDirection
   amount       Float
-  currency     String               @default("SGD")
+  currency     String               @default("THB")
   counterparty String
   country      String
   date         DateTime

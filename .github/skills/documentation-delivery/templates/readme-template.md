@@ -1,6 +1,6 @@
 # [Project Name] — AML/STR Case Management Platform
 
-> Anti-Money Laundering case management and Suspicious Transaction Reporting platform for Singapore banking AML/CFT compliance.
+> Anti-Money Laundering case management and Suspicious Transaction Reporting platform for Thai banking AML/CFT compliance under AMLA B.E. 2542.
 
 ## Tech Stack
 

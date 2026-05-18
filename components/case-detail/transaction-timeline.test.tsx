@@ -8,9 +8,9 @@ const txBase: CaseTransaction = {
   id: "tx-1",
   direction: "INCOMING",
   amount: 50000,
-  currency: "SGD",
+  currency: "THB",
   counterparty: "Global Trade Co",
-  country: "Singapore",
+  country: "Thailand",
   date: "2026-03-15T10:00:00Z",
   purpose: "Trade Payment",
 };
@@ -43,14 +43,14 @@ describe("TransactionTimeline", () => {
     const badge = within(row).getByTestId("transaction-direction");
     expect(badge.textContent).toBe("IN");
 
-    // Amount with currency (SGD 50,000.00 formatted)
+    // Amount with currency (THB 50,000.00 formatted)
     expect(within(row).getByText(/50,000/)).toBeDefined();
 
     // Counterparty
     expect(within(row).getByText("Global Trade Co")).toBeDefined();
 
     // Country
-    expect(within(row).getByText("Singapore")).toBeDefined();
+    expect(within(row).getByText("Thailand")).toBeDefined();
 
     // Purpose and date in the detail line
     expect(within(row).getByText(/Trade Payment/)).toBeDefined();

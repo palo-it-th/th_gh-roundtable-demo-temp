@@ -42,7 +42,7 @@ const fullCaseData = {
       id: 'txn-1',
       direction: 'OUTGOING',
       amount: 50000,
-      currency: 'SGD',
+      currency: 'THB',
       counterparty: 'Offshore Ltd',
       country: 'VG',
       date: new Date('2026-03-20T00:00:00Z'),

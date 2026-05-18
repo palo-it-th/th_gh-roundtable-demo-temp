@@ -6,9 +6,9 @@ These instructions apply to **every** Copilot interaction in this repository.
 
 ## Project Overview
 
-**AML (Anti-Money Laundering) / STR (Suspicious Transaction Report) Case Management Platform** for a Singapore-based bank. Compliance officers and MLROs manage AML investigations, assess risk, and file STRs with STRO via the SONAR system.
+**AML (Anti-Money Laundering) / STR (Suspicious Transaction Report) Case Management Platform** for a Thai commercial bank. Compliance officers manage AML investigations, assess risk, and file STRs with AMLO (Anti-Money Laundering Office) under the Anti-Money Laundering Act B.E. 2542 (1999).
 
-**Regulatory context:** AML/CFT compliance for Singapore banking.
+**Regulatory context:** AML/CFT compliance for Thai banking under BOT (Bank of Thailand) supervision and AMLO reporting requirements.
 
 **Domain reference:** For AML/CFT domain context (terminology, workflows, risk levels, entity model, business rules), read `docs/reference/aml-domain-knowledge.md`.
 

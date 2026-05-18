@@ -7,7 +7,7 @@
 ## Opening (30 seconds)
 
 **Show:** Dashboard at `/dashboard`
-**Say:** "This is a fully functional AML case management platform, built entirely with AI-assisted development in [X hours]. It handles the full STR lifecycle — from alert to filing — under Singapore AML/CFT compliance requirements."
+**Say:** "This is a fully functional AML case management platform, built entirely with AI-assisted development in [X hours]. It handles the full STR lifecycle — from alert to filing — under Thailand's AMLA B.E. 2542 compliance requirements."
 
 ---
 
@@ -43,7 +43,7 @@
 - Suspicion grounds
 - Submit with confirmation
 
-**Say:** "Filed within the 15-day regulatory deadline, via SONAR."
+**Say:** "Filed within the 7-day regulatory deadline, reported to AMLO."
 
 ---
 
