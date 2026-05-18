@@ -1,5 +1,99 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220",
+    "https://www.amlo.go.th/index.php/news-en/detail/18666",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://www.bot.or.th/en/news-and-media/news.html"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220": {
+      "title": "List of Designated Persons (Updated as of 8 May 2026)",
+      "published_date": "2026-05-14",
+      "body_sha256": "952605fe20207bf6786abebef5b4f8cec92385aa733894bd18aaf1642ff68334",
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "Sanctions/Designated Persons",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/18666": {
+      "title": "The Transaction Committee Seized and Froze Assets Worth Over 10,615 Million Baht in Major Cases Linked to Transnational Organized Crime Networks and Scammer Rings",
+      "published_date": "2026-03-20",
+      "body_sha256": "d8cc55d770e67291d91efa1a9b8ebfeb01913b1a8b0d68ac471a34e63b0836ac",
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "Enforcement/Asset Seizure",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2026)",
+      "published_date": "2026-02-16",
+      "body_sha256": "1f21c3bb98b5717b7e41e0dbb2a9d5f6c26feeefc9e76dca107f4a9f1136e026",
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "FATF Risk Jurisdictions",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications (AML/CFT Laws, Policy and Measures)",
+      "published_date": "2025-12-08",
+      "body_sha256": "bb2a95533cfb59e9a75b3cf19056f9b50d108744daab6d6d5ef63065117df4d4",
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "AML/CFT Notifications",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of October 2025)",
+      "published_date": "2025-10-24",
+      "body_sha256": "17026191e4e67185325cabd962f32c515965d7b391afb3581f5ce4f7226f1a75",
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "FATF Risk Jurisdictions",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of June 2025)",
+      "published_date": "2025-06-17",
+      "body_sha256": "b3ccb9daafc0961cd30067bda72e61b86a4fe3005d91a686ed23a2b58c8ffaca",
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "FATF Risk Jurisdictions",
+      "source": "AMLO"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy",
+      "published_date": null,
+      "body_sha256": "4860b3880b89d08072f27ad27904eeb5535086ade3f8c9b29908020fc14292d5",
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "BOT Financial Institutions Policy",
+      "source": "BOT"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Financial Institutions Policy Circulars and Notifications (FIPCS)",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "BOT Circulars/Notifications",
+      "source": "BOT",
+      "note": "Dynamic page - individual document URLs not extractable from static HTML"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Thailand - Anti-Money Laundering Office (Entry Point)",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "Index Page",
+      "source": "AMLO"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News and Media (Entry Point)",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-18T14:35:05.329217+00:00",
+      "category": "Index Page",
+      "source": "BOT",
+      "note": "Dynamic React component - news content not accessible from static HTML"
+    }
+  },
+  "index_checked_at": "2026-05-18T14:35:05.329217+00:00"
 }
