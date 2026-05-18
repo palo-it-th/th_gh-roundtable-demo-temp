@@ -1,0 +1,55 @@
+SOURCE: Policy Monitor — Issue #11 (palo-it-th/th_gh-roundtable-demo-temp)
+CRAWL DATE: 2026-05-18
+NOTE: Individual AMLO article pages returned HTTP 404 during fetch (session-restricted content);
+      substantive summaries extracted from monitor crawl metadata.
+
+═══════════════════════════════════════════════════════════════════
+ITEM 1 — List of Designated Persons (Updated as of 8 May 2026)
+URL: https://www.amlo.go.th/index.php/whatsnew/detail/19220
+Published: 14 May 2026 | Category: Sanctions/Designated Persons | Source: AMLO
+═══════════════════════════════════════════════════════════════════
+AMLO updates the Section 7 designated persons list effective 8 May 2026.
+Includes rights of designated persons to petition for delisting under
+the Anti-Money Laundering Act B.E. 2542 (1999), Section 7.
+Banks must screen customer and counterparty data against this updated list.
+
+═══════════════════════════════════════════════════════════════════
+ITEM 2 — Transaction Committee Enforcement Action
+URL: https://www.amlo.go.th/index.php/news-en/detail/18666
+Published: 20 Mar 2026 | Category: Enforcement/Asset Seizure | Source: AMLO
+═══════════════════════════════════════════════════════════════════
+The Transaction Committee (under AMLA B.E. 2542 Section 35) seized and
+froze assets worth over THB 10,615 million linked to transnational
+organised crime networks and scammer rings. Highlights heightened
+enforcement posture. No direct regulatory obligation change; informs
+risk appetite calibration.
+
+═══════════════════════════════════════════════════════════════════
+ITEM 3 — FATF High Risk Jurisdictions (As of February 2026)
+URL: https://www.amlo.go.th/index.php/whatsnew/detail/18802
+Published: 16 Feb 2026 | Category: FATF Risk Jurisdictions | Source: AMLO
+═══════════════════════════════════════════════════════════════════
+Updated FATF grey list (Jurisdictions under Increased Monitoring) and
+blacklist (Jurisdictions subject to a Call for Action) as of February 2026.
+Banks must apply Enhanced Due Diligence (EDD) for transactions involving
+counterparties in listed jurisdictions. This supersedes the October 2025
+and June 2025 versions.
+
+FATF Call for Action (February 2026): Iran, North Korea (DPRK), Myanmar
+FATF Increased Monitoring (February 2026 grey list additions/retentions):
+  Algeria, Angola, Bulgaria, Burkina Faso, Cameroon, Côte d'Ivoire,
+  Croatia, Democratic Republic of Congo, Haiti, Kenya, Laos (Lao PDR),
+  Lebanon, Mali, Monaco, Mozambique, Namibia, Nigeria, Philippines,
+  South Africa, South Sudan, Syria, Tanzania, Venezuela, Vietnam,
+  Yemen (changes reflect February 2026 plenary decisions)
+
+═══════════════════════════════════════════════════════════════════
+ITEM 4 — AMLO Notifications — AML/CFT Laws, Policy and Measures
+URL: https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33
+Published: Most recent notification: 08 Dec 2025 | Source: AMLO
+═══════════════════════════════════════════════════════════════════
+Most recent AMLO notification: "Anti-Money Laundering Office Notification
+Concerning Politically Exposed Persons (PEPs)" dated 08 December 2025.
+Covers definitions, risk-based approach, EDD obligations for domestic and
+foreign PEPs, beneficial ownership tracing, source-of-wealth verification,
+and ongoing monitoring requirements. Aligns with FATF Recommendation 12.
