@@ -57,7 +57,7 @@ jobs:
     steps:
       - name: Create issue for Copilot agent
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           CHANGE_DETAILS="${{ needs.monitor.outputs.change_details }}"
           CHANGED_SOURCES="${{ needs.monitor.outputs.changed_sources }}"
