@@ -26,16 +26,19 @@ for i in $(seq 0 $((source_count - 1))); do
   echo "  URL: $url"
 
   content=""
+  http_code=""
   for attempt in 1 2 3; do
-    if content=$(curl -sL --max-time "$timeout" "$url" 2>/dev/null); then
+    http_code=$(curl -sL --max-time "$timeout" -o /tmp/resource_content -w "%{http_code}" "$url" 2>/dev/null) || true
+    if [ "$http_code" = "200" ]; then
+      content=$(cat /tmp/resource_content)
       break
     fi
-    echo "  Attempt $attempt failed, retrying..."
+    echo "  Attempt $attempt: HTTP $http_code, retrying..."
     sleep 5
   done
 
   if [ -z "$content" ]; then
-    echo "  WARNING: Failed to fetch $url after 3 attempts"
+    echo "  WARNING: Failed to fetch $url (HTTP $http_code) after 3 attempts — skipping"
     echo "::endgroup::"
     continue
   fi

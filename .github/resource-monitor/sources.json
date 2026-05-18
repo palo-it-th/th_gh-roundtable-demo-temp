@@ -11,13 +11,13 @@
       "update_scope": ["docs/reference/aml-domain-knowledge.md", "lib/validations.ts"]
     },
     {
-      "id": "fatf-greylist",
-      "name": "FATF Jurisdictions under Increased Monitoring (Grey List)",
-      "url": "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
+      "id": "amlo-thailand",
+      "name": "AMLO Thailand - Anti-Money Laundering Office",
+      "url": "https://www.amlo.go.th/index.php/en/",
       "type": "webpage",
-      "selector": "article",
-      "relevance": "FATF grey/black list changes affect EDD triggers and risk scoring logic. Country list updates require risk model recalibration.",
-      "update_scope": ["lib/types.ts", "docs/reference/aml-domain-knowledge.md"]
+      "selector": "main",
+      "relevance": "Thailand's Financial Intelligence Unit (FIU). Changes indicate new AML regulations, enforcement actions, reporting requirements, or guidance for financial institutions under AMLA B.E. 2542.",
+      "update_scope": ["docs/reference/aml-domain-knowledge.md", "lib/types.ts", "lib/validations.ts"]
     },
     {
       "id": "bot-notifications",
@@ -29,8 +29,8 @@
       "update_scope": ["docs/reference/aml-domain-knowledge.md", "components/case-detail/"]
     },
     {
-      "id": "bot-amlo-advisory",
-      "name": "BOT News - AML/CFT Joint Advisories",
+      "id": "bot-news",
+      "name": "BOT News and Press Releases",
       "url": "https://www.bot.or.th/en/news-and-media/news.html",
       "type": "webpage",
       "selector": "main",
