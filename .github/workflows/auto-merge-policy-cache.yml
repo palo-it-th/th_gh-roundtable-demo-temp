@@ -1,0 +1,25 @@
+name: Auto-merge policy cache PRs
+
+# Triggered when the policy-monitor agent opens a [policy-cache] PR
+# to update docs/policy-state/policy-hashes.json.
+# Requires "Allow auto-merge" to be enabled in Settings > General.
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    if: startsWith(github.event.pull_request.title, '[policy-cache]')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enable auto-merge
+        run: gh pr merge --auto --squash "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
