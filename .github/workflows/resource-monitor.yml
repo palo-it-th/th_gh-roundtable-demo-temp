@@ -55,7 +55,7 @@ jobs:
     if: needs.monitor.outputs.changes_detected == 'true' || github.event.inputs.force_update == 'true'
     runs-on: ubuntu-latest
     steps:
-      - name: Create issue and assign to Copilot
+      - name: Create issue to trigger coding agent
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
@@ -65,7 +65,6 @@ jobs:
           ISSUE_URL=$(gh issue create \
             --repo "${{ github.repository }}" \
             --title "chore: update codebase for regulatory resource changes — ${CHANGED_SOURCES}" \
-            --assignee "copilot" \
             --body "$(cat <<EOF
           ## Context
 
@@ -105,4 +104,5 @@ jobs:
           EOF
           )")
 
-          echo "Issue created and assigned to Copilot: $ISSUE_URL"
+          echo "Issue created: $ISSUE_URL"
+          echo "The regulatory-update-agent workflow will auto-assign Copilot coding agent."
