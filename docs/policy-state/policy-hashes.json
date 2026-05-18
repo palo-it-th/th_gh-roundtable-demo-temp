@@ -1,5 +1,55 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/",
+    "https://www.amlo.go.th/index.php/news-en/detail/18666",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/Supervisory-Framework.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Thailand - Anti-Money Laundering Office (Homepage)",
+      "published_date": "",
+      "body_sha256": "c678cd6e3017f21270596fd2a7b89d0d156019ad58dfa15fb056cbd215a676a9",
+      "checked_at": "2026-05-18T16:21:12.899242+00:00",
+      "category": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/18666": {
+      "title": "The Transaction Committee Seized and Froze Assets Worth Over 10,615 Million Baht in Major Cases Linked to Transnational Organized Crime Networks and Scammer",
+      "published_date": "December 2025",
+      "body_sha256": "a22fbe30c569252cd738758e9f63b9402a98cf4616fb0423091e3eda57f16bb3",
+      "checked_at": "2026-05-18T16:21:12.899242+00:00",
+      "category": "AMLO Enforcement"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy - Bank of Thailand",
+      "published_date": "2023-05-17",
+      "body_sha256": "4860b3880b89d08072f27ad27904eeb5535086ade3f8c9b29908020fc14292d5",
+      "checked_at": "2026-05-18T16:21:12.899242+00:00",
+      "category": "BOT Policy"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/Supervisory-Framework.html": {
+      "title": "Financial Institutions Supervisory Framework - Bank of Thailand",
+      "published_date": "",
+      "body_sha256": "bfcabd2a02b17d59c4fdb8b1f0aabf96d27035457f1e795720f4a193f888f32f",
+      "checked_at": "2026-05-18T16:21:12.899242+00:00",
+      "category": "BOT Supervision"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notifications and Circulars - Financial Institutions Policy and Conditions System",
+      "published_date": "",
+      "body_sha256": "1a603811653c228f8472d17375a6641f2d24eda31a78574b29c06abf6fb6ee6f",
+      "checked_at": "2026-05-18T16:21:12.899242+00:00",
+      "category": "BOT Notifications"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "News - Bank of Thailand",
+      "published_date": "",
+      "body_sha256": "758a36185a16f6c5dda1a765e50cd2b1d3e5b58f078e4ce26c8c5eee94ad1fb5",
+      "checked_at": "2026-05-18T16:21:12.899242+00:00",
+      "category": "BOT News"
+    }
+  },
+  "index_checked_at": "2026-05-18T16:21:12.899242+00:00"
 }
