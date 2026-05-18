@@ -62,7 +62,7 @@ jobs:
           CHANGE_DETAILS="${{ needs.monitor.outputs.change_details }}"
           CHANGED_SOURCES="${{ needs.monitor.outputs.changed_sources }}"
 
-          gh issue create \
+          ISSUE_URL=$(gh issue create \
             --repo "${{ github.repository }}" \
             --title "chore: update codebase for regulatory resource changes — ${CHANGED_SOURCES}" \
             --body "$(cat <<EOF
@@ -102,5 +102,12 @@ jobs:
           - [ ] No hardcoded values — use constants
           - [ ] TODO comments added for changes requiring compliance officer review
           EOF
-          )" \
-            --assignee "copilot"
+          )")
+
+          echo "Issue created: $ISSUE_URL"
+
+          ISSUE_NUMBER=$(echo "$ISSUE_URL" | grep -oE '[0-9]+$')
+          echo "Assigning copilot to issue #${ISSUE_NUMBER}..."
+          gh issue edit "$ISSUE_NUMBER" \
+            --repo "${{ github.repository }}" \
+            --add-assignee "copilot" || echo "::warning::Could not assign copilot — ensure Copilot coding agent is enabled in repo settings"
