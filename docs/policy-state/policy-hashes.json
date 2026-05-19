@@ -1,5 +1,106 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-55-30",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-24-28",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56": {
+      "title": "AMLO — AML/CFT Acts",
+      "category": "AML/CFT Laws",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "845ffe807acd85720ebaed7e624948cbde5842bb165e17bc347c722dad702b6e",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-55-30": {
+      "title": "AMLO — AML/CFT Ministerial Regulations",
+      "category": "AML/CFT Laws",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "ba0122a34dd79d5b196fe99facfcbad3a4f0392474b2546a8095ecebe1001e5b",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO — AML/CFT Notifications",
+      "category": "AML/CFT Laws",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "51523f78ef863bdb337eae568eab6965da15008ec0e7c4d6cb5609beda68edbd",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15": {
+      "title": "AMLO — AML/CFT National Strategy & Measures",
+      "category": "AML/CFT Strategy",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "c9ba41b8f2de2e5fd58741502cf80197b44326a232477f755a3d1693737b1830",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "AMLO — FATF Public Statements / High-Risk Countries",
+      "category": "High-Risk Countries/Sanctions",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "3cd66e5c1fe1f95d12b0f6ebc2efa801907d12fc47daa5055a064c6562ac3de9",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52": {
+      "title": "AMLO — Designated Persons List (Thailand List, Section 7)",
+      "category": "Sanctions/Designated Persons",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "158a40f9e73228113f591780e967be1e9f0542898fd7d7971a56cc4ba368d97c",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "AMLO — National Risk Assessment Reports",
+      "category": "Risk Assessment",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "4f40503a538a8883cdfc1651c5b5c64009784be8acb575e0b1cb610cc0061906",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-24-28": {
+      "title": "AMLO — Typologies Reports (Publications)",
+      "category": "Publications",
+      "source": "amlo",
+      "published_date": null,
+      "body_sha256": "640d1e8c2aa3f240650948883ea6ed2a4676c1b5200215338f8c99e135a26900",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "BOT — Financial Institutions and Financial Service Providers Policy",
+      "category": "BOT Policy",
+      "source": "bot",
+      "published_date": null,
+      "body_sha256": "4860b3880b89d08072f27ad27904eeb5535086ade3f8c9b29908020fc14292d5",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT FIPCS — Financial Institutions Policy Circulars (Page 1 of 27)",
+      "category": "BOT Regulatory Circulars",
+      "source": "bot",
+      "published_date": null,
+      "body_sha256": "1a603811653c228f8472d17375a6641f2d24eda31a78574b29c06abf6fb6ee6f",
+      "checked_at": "2026-05-19T16:23:08Z"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT — News and Media",
+      "category": "BOT News",
+      "source": "bot",
+      "published_date": null,
+      "body_sha256": "758a36185a16f6c5dda1a765e50cd2b1d3e5b58f078e4ce26c8c5eee94ad1fb5",
+      "checked_at": "2026-05-19T16:23:08Z"
+    }
+  },
+  "index_checked_at": "2026-05-19T16:23:08Z"
 }
