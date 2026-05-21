@@ -1,5 +1,119 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56",
+    "https://www.amlo.go.th/index.php/news-en/detail/18666",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLAYconsolidatedY1-6Yfinal_4754.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CTPF Act No 2 final_9835.pdf",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Thailand - Home",
+      "published_date": null,
+      "body_sha256": "0e61eff83c78be22059faa55cdf0457bca501756b43fae8b2f7e542f6d5c9d55",
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO Homepage",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56": {
+      "title": "AMLO AML/CFT Acts and Laws",
+      "published_date": null,
+      "body_sha256": "b6abbb397dce97865a842c0ad392c8e1511c03a41339c0cb3e8aa3a070820ec5",
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AML/CFT Laws",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/18666": {
+      "title": "The Transaction Committee Seized and Froze Assets Worth Over 10,615 Million Baht in Major Cases Linked to Transnational Organized Crime Networks and Scammer Rings",
+      "published_date": "2025-12-03",
+      "body_sha256": "f650b92c191b1931bf23a95a7e72b19db0ff64ca60cb275661595b3c360c7c73",
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO News - Financial Crime Enforcement",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220": {
+      "title": "List of Designated Persons (Updated as of 8 May 2026)",
+      "published_date": "2026-05-08",
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO - Designated Persons / Sanctions",
+      "source": "AMLO",
+      "note": "Page returned 404 on fetch; recorded from homepage listing"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2026)",
+      "published_date": "2026-02-13",
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO - FATF High-Risk Jurisdictions",
+      "source": "AMLO",
+      "note": "Page returned 404 on fetch; recorded from homepage listing"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of October 2025)",
+      "published_date": "2025-10-24",
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO - FATF High-Risk Jurisdictions",
+      "source": "AMLO",
+      "note": "Page returned 404 on fetch; recorded from homepage listing"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of June 2025)",
+      "published_date": "2025-06-17",
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO - FATF High-Risk Jurisdictions",
+      "source": "AMLO",
+      "note": "Page returned 404 on fetch; recorded from homepage listing"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLAYconsolidatedY1-6Yfinal_4754.pdf": {
+      "title": "Anti-Money Laundering Act B.E. 2542 (1999) (Consolidated 1-6)",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO - AML Legislation",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CTPF Act No 2 final_9835.pdf": {
+      "title": "Counter-Terrorism and Proliferation of Weapons of Mass Destruction Financing Act (No. 2) B.E. 2567",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "AMLO - CFT Legislation (Recent Amendment)",
+      "source": "AMLO"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy",
+      "published_date": null,
+      "body_sha256": "84ca5ed2382f01e67008b6816b522f82066774d358d1015fd0ba8af4a4be257e",
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "BOT - Financial Institution Policy Framework",
+      "source": "BOT"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notification and Circulars - FIPCS",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "BOT - Circulars Index",
+      "source": "BOT"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News and Media",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-21T16:22:36.210654+00:00",
+      "category": "BOT - News Index",
+      "source": "BOT"
+    }
+  },
+  "index_checked_at": "2026-05-21T16:22:36.210654+00:00"
 }
