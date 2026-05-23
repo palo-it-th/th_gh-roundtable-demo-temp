@@ -1,5 +1,383 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-57-57",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON guidelines for submission information on risk assessment_4041.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CDDYHR03YFinal_6105.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YNewYProductY2021_8043.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YConcerningYAreasYConsidered_9284.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YGuidelineYforYConsideringYriskYfactor_7438.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/5.YAMLONY2021YpolicyYandYproceduresYforYriskYassessment_6252.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYInternalYControlY2021_7870.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYGroupYwide_5523.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYBOYExemption_2246.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYwireYtransfer_9610.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON_training_to_the_reporting_entities_by_a_juristic_person_1088.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLOYNotificationYIntegrityYIntention_1919.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/2.YAMLO_PMOYNotificationYonYCustomerYIdentificationYunderYSectionY16YB.E.Y2556_1464.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_7302.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/6.YAMLO_OrdinanceYconcerningYAMLOYadmistrationY(BEY2556)_2684.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLB Ordinance Prescribing Rules and Procedures for Safe Keeping of Information from Customer Due Diligence (2016)(2).pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLB Ordinance on Rules, Procedures and Conditions for Organizing Training for Reporting Entities under Section 13 and Section 16 B_E_ 2559 (2016)(1).pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLB Ordinance concerning Supervision, Examination, and Assessment of Compliance with the Law on AML of REs (2016).pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZordinanceZAssetZmanagementZ20003.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZAssetZAuction2.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZordinanceZAssetZUtilizationZ20002.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOZOrdinanceZCoordinationZinZComplianceZwithZtheZAMLA1.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZDamageZDepreciation2.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZonZDesignationZFebZ20132.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AgreementZunderZtheZPrimeZMinisterZOfficeZRegulationZ20011.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PorKorRor02Z2013Z04Z17.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PorKorRor01Z2013Z04Z172.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZonZManagementZofZFrozenZAssetsZFebZ20131.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZonZRiskZAssessmentZFebZ20131.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYThailandYforYPublicationYEnglish_6112.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Thailands_MLFT_Risk_Profile_by_Sector_2011-2012_5124.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYSumY2559YEN_7527.pdf"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "BOT Financial Institutions and Financial Service Providers Policy",
+      "published_date": "unknown",
+      "category": "BOT Policy",
+      "body_sha256": "fbaf379ce1cd8d50a2c7dd23acbc7eec163528ffebc764d92f54c603f7be4b75",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notifications and Circulars (FIPCS)",
+      "published_date": "unknown",
+      "category": "BOT Circulars",
+      "body_sha256": "7e4fc9434508a1e2bb476ba8e58ed16c975b3f71633283e2e0842844dac86709",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News",
+      "published_date": "unknown",
+      "category": "BOT News",
+      "body_sha256": "f2ba3b8397ca3d44459107a7abb2a5b28a9e5c46687d20cfdea222448fd9bbc5",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Homepage (English)",
+      "published_date": "unknown",
+      "category": "AMLO",
+      "body_sha256": "8b919be6356029ab4abe8dd718c5d8fabe985dcf27e98db9b2845c752212c93c",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications Index",
+      "published_date": "unknown",
+      "category": "AMLO Notification",
+      "body_sha256": "612f50c3f339fdce85d259727e7c68eaccfa9791aaa7d751a9c80aae38027bab",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-57-57": {
+      "title": "AMLO Ordinances Index",
+      "published_date": "unknown",
+      "category": "AMLO Ordinance",
+      "body_sha256": "e6251d946452d4720e4c4bd120eda26f0b1c0358ae74b6b1b010a2e899e26758",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "Thailand National Risk Assessment Reports",
+      "published_date": "unknown",
+      "category": "AMLO NRA",
+      "body_sha256": "546882f3cf04d7d5a26028890ce539252508441411c61c4bec962932aa671b57",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "FATF Public Statements on High-Risk Countries",
+      "published_date": "unknown",
+      "category": "AMLO FATF",
+      "body_sha256": "78644bc2d5a8a2a8826b1298cbb642f986a811b0f130486628c84ea379ea876a",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52": {
+      "title": "List of Designated Persons under Section 7 (Thailand List)",
+      "published_date": "unknown",
+      "category": "AMLO Designated Persons",
+      "body_sha256": "1b5845d4e64b9e4917550f7d1ff22393473aba59d6ab395ddd4e3a9434cc9088",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Politically Exposed Persons (PEPs)",
+      "published_date": "unknown",
+      "category": "AMLO Notification",
+      "body_sha256": "15610ee5eba192a98237541a7ceba72512cda058d88fa1717f19c46a799c863c",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON guidelines for submission information on risk assessment_4041.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guidelines for Submission of Information on Risk Assessments Relating to Money Laundering or Financing of Terrorism or Proliferation of Weapons of ",
+      "published_date": "1320",
+      "category": "AMLO Notification",
+      "body_sha256": "146329272610d0e3eb9a67f1c2ff9388b5a62635f23bf173c85154ac71db1158",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning High-risk Area or Jurisdiction Subject to Application of Enhanced Due Diligence",
+      "published_date": "1212",
+      "category": "AMLO Notification",
+      "body_sha256": "c6749b01e658ac5fa19cb76fc9439cbc4bfe81ae3c44dee83edd7130f39a4b3a",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CDDYHR03YFinal_6105.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Rules for Designating or Reviewing List of High-Risk Customers Subject to Close Monitoring under Ministerial Regulation on Customer Due Diligence B",
+      "published_date": "9877",
+      "category": "AMLO Notification",
+      "body_sha256": "66b7adbbc08cc305ecf7a89498b4c8a854086fdea3a1d34eb48394ddebda09fd",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Identification and Verification of Customers and Ultimate Beneficial Owners",
+      "published_date": "7222",
+      "category": "AMLO Notification",
+      "body_sha256": "b0cc8dd1b404377d5805286e53172bacad0ceb482f94f5cb85a978df4c480e64",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YNewYProductY2021_8043.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Issuance of Measures for Money Laundering and Financing of Terrorism and Proliferation of Weapons of Mass Destruction Risk Management",
+      "published_date": "7220",
+      "category": "AMLO Notification",
+      "body_sha256": "04798cef4ec494af2edec1265cf00863a06efbca94aad1ea2e0b6b35c08434b1",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YConcerningYAreasYConsidered_9284.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Areas Considered by Anti-Money Laundering Office as Having High Money Laundering or Financing of Terrorism Risk",
+      "published_date": "7216",
+      "category": "AMLO Notification",
+      "body_sha256": "19ce8e88e1ecc531c0152ed444fe1a4e1702e437e2e1f09ec25818c02a212cbf",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YGuidelineYforYConsideringYriskYfactor_7438.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Consideration of Risk Factors of Money-Laundering or Combating the Financing of Terrorism or Proliferation of Weapons of Mass Destruc",
+      "published_date": "7219",
+      "category": "AMLO Notification",
+      "body_sha256": "8c2c47649a68d32fca6103d22e3bd1ca563382dd69ac07709208721b514403b0",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/5.YAMLONY2021YpolicyYandYproceduresYforYriskYassessment_6252.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Prescription of Internal Policies and Procedures for Assessment, Management and Mitigation of Money Laundering or Financing of Terror",
+      "published_date": "7034",
+      "category": "AMLO Notification",
+      "body_sha256": "534130014f29382a3c9fb5b578f532df208ff59b653e9361a98f244bfb9ba44f",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYInternalYControlY2021_7870.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Prescription and Action under Policy and Procedure relating to Internal Control for Financial Institutions and Businesses and Professions under Sec",
+      "published_date": "7030",
+      "category": "AMLO Notification",
+      "body_sha256": "87e27b852c275fff560bf26906d0306f6a2b29cd8ac0b82ed0e0c2ef18d2373c",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYGroupYwide_5523.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Types of Financial Institutions or Businesses and Professions under Section 16 and Branches or Subsidiaries",
+      "published_date": "unknown",
+      "category": "AMLO Notification",
+      "body_sha256": "bda6441f0cc3681ba2d71f367af97bbc12b71ac0b82c48ba77e6b46769892a36",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYBOYExemption_2246.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Types of Customer Exempted from Identification of Beneficial Owner by Financial Institutions and Businesses and Professions under Section 16",
+      "published_date": "6727",
+      "category": "AMLO Notification",
+      "body_sha256": "f6516e228a347ba5f85ba8444b46b4c74ee10024413daa8d877397c58ce8bb31",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYwireYtransfer_9610.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Accompanying Information Exemption for Qualifying Wire Transfer",
+      "published_date": "unknown",
+      "category": "AMLO Notification",
+      "body_sha256": "3c9e90e996c0e271f7a410b3dc7b4c87d9f0602c54deeafb27adc54b813d2aa9",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning High-risk Areas or Jurisdictions Subject to Application of Enhanced Due Diligence and Countermeasure",
+      "published_date": "6467",
+      "category": "AMLO Notification",
+      "body_sha256": "f2b64a495c250d35a8da26ab6ee97a29bbd61a1176305b0679dd6a24d5793499",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON_training_to_the_reporting_entities_by_a_juristic_person_1088.pdf": {
+      "title": "AMLO Notification Re: Rules and Procedures for Training Provision under the Anti-Money Laundering Board Ordinance on the Provision of Training to the Reporting Entities under Section 13 and Section 16",
+      "published_date": "6064",
+      "category": "AMLO Notification",
+      "body_sha256": "6297ff962555c79e0ff5942ae5dfe28f6aa61173bf4301c059f06eea810ec4e1",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf": {
+      "title": "AMLO Notification Re: Guidelines for Prescribing Factors for Consideration for Low Risk Customer (New)",
+      "published_date": "unknown",
+      "category": "AMLO Notification",
+      "body_sha256": "1372b1154bf56fa46870ce0d8f62a3f04eda52575ad7d6ee243b1da40ffda9af",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf": {
+      "title": "Prime Minister Office Notification on Customer Identification under Section 16 B.E. 2562",
+      "published_date": "unknown",
+      "category": "AMLO Notification",
+      "body_sha256": "6f6b307d47e66b931777c3689843d316c6abfaec2462bdeca106811834e1a1fe",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLOYNotificationYIntegrityYIntention_1919.pdf": {
+      "title": "Anti-Money Laundering Office Notification Re: Integrity Intent on Anti-Money Laundering Office Management",
+      "published_date": "3341",
+      "category": "AMLO Notification",
+      "body_sha256": "eb61a9c4803f14bb1a9d8928b3bd0d8a89f765ea7b8bfcebf423beb3f4c9f512",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/2.YAMLO_PMOYNotificationYonYCustomerYIdentificationYunderYSectionY16YB.E.Y2556_1464.pdf": {
+      "title": "Prime Minister Office Notification on Customer Identification under Section 16 B.E. 2556",
+      "published_date": "B.E. 2556",
+      "category": "AMLO Notification",
+      "body_sha256": "115e9eac1040642168afcd3d390e513fe774e0374eeb2f91d48bfc16e588ed5c",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_7302.pdf": {
+      "title": "AMLO Notification on Guidelines for Prescribing Factors for Consideration for Low Risk Customer",
+      "published_date": "unknown",
+      "category": "AMLO Notification",
+      "body_sha256": "059c0649a32f767ebd424e9e8931c10abdb92a8d190bc9e5f577ea5415e68b02",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/6.YAMLO_OrdinanceYconcerningYAMLOYadmistrationY(BEY2556)_2684.pdf": {
+      "title": "Ordinance of the Anti-Money Laundering Office Concerning the Anti-Money Office\u2019s Administration, B.E. 2556 (2013)",
+      "published_date": "B.E. 2556",
+      "category": "AMLO Ordinance",
+      "body_sha256": "f453163529dc2da5fa4e20d4ae455f21eb9514aeca1a0b60f5a9301856779aa5",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLB Ordinance Prescribing Rules and Procedures for Safe Keeping of Information from Customer Due Diligence (2016)(2).pdf": {
+      "title": "AMLB Ordinance Prescribing Rules and Procedures for Safe Keeping of Information from Customer Due Diligence (2016)",
+      "published_date": "1450",
+      "category": "AMLO Ordinance",
+      "body_sha256": "385a99ceb8b5555308ddbb4b75752b6091cbea8f796bca3173cc8f1906651282",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLB Ordinance on Rules, Procedures and Conditions for Organizing Training for Reporting Entities under Section 13 and Section 16 B_E_ 2559 (2016)(1).pdf": {
+      "title": "AMLB Ordinance on Rules, Procedures and Conditions for Organizing Training for Reporting Entities under Section 13 and Section 16 B.E. 2559 (2016)",
+      "published_date": "1449",
+      "category": "AMLO Ordinance",
+      "body_sha256": "86ffcf6fd13335ec723b7cb1a2bce8a94b54fa68c3a7dfa935f6a4962c465383",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLB Ordinance concerning Supervision, Examination, and Assessment of Compliance with the Law on AML of REs (2016).pdf": {
+      "title": "AMLB Ordinance concerning Supervision, Examination, and Assessment of Compliance with the Law on AML of REs (2016)",
+      "published_date": "1448",
+      "category": "AMLO Ordinance",
+      "body_sha256": "3d136ac276daf158a8814e124e1ac74cc5d67c6ddaed50716f8e0f7e64d67f5c",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZordinanceZAssetZmanagementZ20003.pdf": {
+      "title": "Anti-Money Laundering Board Ordinance on the Custody and Management of the Seized or Attached Property B.E. 2543 (2000)",
+      "published_date": "unknown",
+      "category": "AMLO Ordinance",
+      "body_sha256": "5b5c74eb68825a837053bc6771871b875a0ec64891e9e2dc9b1c75af9b135123",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZAssetZAuction2.pdf": {
+      "title": "Anti-Money Laundering Board Ordinance on Putting up the Property for Auction 2001",
+      "published_date": "unknown",
+      "category": "AMLO Ordinance",
+      "body_sha256": "d0e51e6e1cdf17b1a2e54c5a2f47f54c58537e96505537a2fb0559f253b60e67",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZordinanceZAssetZUtilizationZ20002.pdf": {
+      "title": "Anti-Money Laundering Board Ordinance on Permitting the Stakeholder to Take the Property for Custody and Utilization, Putting up the Property for Auction and Using the Property for Benefits to the Aut",
+      "published_date": "2000",
+      "category": "AMLO Ordinance",
+      "body_sha256": "d4115c9529a46cd8eb22ca591a3bb6034fa1fd00190b970c58e59fc2736d3532",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOZOrdinanceZCoordinationZinZComplianceZwithZtheZAMLA1.pdf": {
+      "title": "Prime Minister Office Ordinance on the Coordination in Compliance with the Anti-Money Laundering Act, 1999, 2001",
+      "published_date": "1999",
+      "category": "AMLO Ordinance",
+      "body_sha256": "1e21453fce50a83961c40f0127e70295123ae9bcb3f733c20cca5a25b6a70df0",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZDamageZDepreciation2.pdf": {
+      "title": "Anti-Money Laundering Board Ordinance on the Damages and Depreciation Appraisal B.E. 2543 (2000)",
+      "published_date": "unknown",
+      "category": "AMLO Ordinance",
+      "body_sha256": "033efcf4dcfb35336e216d65c1033a3eb8ec0cfa1d16580278ba04fe729a2382",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZonZDesignationZFebZ20132.pdf": {
+      "title": "Ordinance of the Anti-Money Laundering Board Prescribing Rules and Procedures for Making a Notification and Communicating the List of Designated Persons and Taking Action under Section 6 (1) (2) and (",
+      "published_date": "2013",
+      "category": "AMLO Ordinance",
+      "body_sha256": "60b28899ab1a7b839aac836ebfbac03304c99fecb474c065adc71c9cac6bfdfb",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AgreementZunderZtheZPrimeZMinisterZOfficeZRegulationZ20011.pdf": {
+      "title": "Agreement under the Prime Minister Office Regulation on the Coordination in Compliance with the Anti-Money Laundering Act, 1999, 2001 No.1 (2001)",
+      "published_date": "2001",
+      "category": "AMLO Ordinance",
+      "body_sha256": "57279ed3da6b908730c7473071d7dbabe9b8d3671875d14d085ff6ca65c2d7b6",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PorKorRor02Z2013Z04Z17.pdf": {
+      "title": "Entity Designation Form",
+      "published_date": "unknown",
+      "category": "AMLO Ordinance",
+      "body_sha256": "89e1d0158053dba3af5d859ad511cfb5d4e4065e6be2239290e2cde85c5173db",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PorKorRor01Z2013Z04Z172.pdf": {
+      "title": "Individual Designation Form",
+      "published_date": "unknown",
+      "category": "AMLO Ordinance",
+      "body_sha256": "6b3e04f57ffd1cedc2c2336a381d1eca5aafe2996ef98a2e171df59dd1b8077d",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZonZManagementZofZFrozenZAssetsZFebZ20131.pdf": {
+      "title": "Ordinance of the Anti-Money Laundering Board Concerning the Maintenance and Management of Frozen Assets B.E. 2556 (2013)",
+      "published_date": "B.E. 2556",
+      "category": "AMLO Ordinance",
+      "body_sha256": "330aa74741c52eebfcdda7bb3d038528944bb125bb0bbd4b2dd671227255002d",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLBZOrdinanceZonZRiskZAssessmentZFebZ20131.pdf": {
+      "title": "Ordinance of the Anti-Money Laundering Board Prescribing Rules and Procedures for Adopting Risk Assessment Policy, Setting Guidelines of Action or Other Measures to Counter the Financing of Terrorism ",
+      "published_date": "2013",
+      "category": "AMLO Ordinance",
+      "body_sha256": "5f4b9878bd1329a9cec075e39b9a6a911946f0c261c3198ea970a26c0ae93efc",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYThailandYforYPublicationYEnglish_6112.pdf": {
+      "title": "Thailand National Risk Assessment on ML/TF/PF (August 2022)",
+      "published_date": "August 2022",
+      "category": "AMLO National Risk Assessment",
+      "body_sha256": "0a619e708a96a8d97fb1c90369434e8f277a0792363229101716f04a0f1e4553",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Thailands_MLFT_Risk_Profile_by_Sector_2011-2012_5124.pdf": {
+      "title": "Thailand's MLFT Risk Profile by Sector 2012",
+      "published_date": "2012",
+      "category": "AMLO National Risk Assessment",
+      "body_sha256": "ff20fbf262c06c6becdd157b1698461195e999081c9e934050226b73122b2737",
+      "checked_at": "2026-05-23T15:34:25Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYSumY2559YEN_7527.pdf": {
+      "title": "Summary of 2016 National Money Laundering and Terrorism Financing Risk Assessment",
+      "published_date": "2016",
+      "category": "AMLO National Risk Assessment",
+      "body_sha256": "f44108d590638153827aee0685a04e69569786962d46979b51aaa7b06f45ac89",
+      "checked_at": "2026-05-23T15:34:25Z"
+    }
+  },
+  "index_checked_at": "2026-05-23T15:34:25Z"
 }
