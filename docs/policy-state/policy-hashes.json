@@ -1,5 +1,98 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.amlo.go.th/index.php/news-en/detail/18666",
+    "https://www.amlo.go.th/index.php/news-en/detail/16868",
+    "https://www.amlo.go.th/index.php/news-en/detail/15902",
+    "https://www.amlo.go.th/index.php/news-en/detail/17679",
+    "https://www.amlo.go.th/index.php/news-en/detail/16233",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy",
+      "category": "BOT Policy",
+      "body_sha256": "4860b3880b89d08072f27ad27904eeb5535086ade3f8c9b29908020fc14292d5",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/18666": {
+      "title": "The Transaction Committee Seized and Froze Assets Worth Over 10,615 Million Baht in Major Cases Linked to Transnational Organized Crime Networks and Scammer Rings",
+      "category": "AMLO Enforcement",
+      "body_sha256": "aca0403e13496f4fbd8d64dc38607120e117d7c46cd11e6fd83e72a0b5835ae3",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/16868": {
+      "title": "Joint Statement Enhancing Policies and Operational Guidelines of Financial Institutions Regarding Transactions with Call Center Fraud Perpetrators",
+      "category": "AMLO/BOT Joint Statement",
+      "body_sha256": "c0d489737f74c1831b2c46bd989122696a430177db118e4ed1791e1c160d7c2f",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/15902": {
+      "title": "Joint Press Release - AMLO and BOT reiterate need for financial institutions to prevent money laundering",
+      "category": "AMLO/BOT Joint Statement",
+      "body_sha256": "91133f338f3b9553feb735000689de9453fb3e8128883b1975a1c238857a15c1",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/17679": {
+      "title": "AMLO released outcomes of Transaction Committee meetings from April 2025",
+      "category": "AMLO Enforcement",
+      "body_sha256": "c56c34c01078f1734c8601e9a1bdac6f1a716736d0ebc391e919127ac0b5dfd8",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/16233": {
+      "title": "AMLO, SEC, and SET strengthen collaboration to combat illegal securities trading activities",
+      "category": "AMLO Enforcement",
+      "body_sha256": "139110c49a81b88c92aae306d9e9860410447d045763ed6f15601506c06d42c1",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220": {
+      "title": "List of Designated Persons (Updated as of 8 May 2026)",
+      "category": "AMLO Sanctions/Designated Persons",
+      "body_sha256": "ecc541d38e24f2a78cd8ac2e7ee333973360a2bc27e94e2c98f14323dac4bc3a",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (Feb 2025)",
+      "category": "AMLO AML/CFT Risk Assessment",
+      "body_sha256": "ecc541d38e24f2a78cd8ac2e7ee333973360a2bc27e94e2c98f14323dac4bc3a",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (Jun 2025)",
+      "category": "AMLO AML/CFT Risk Assessment",
+      "body_sha256": "ecc541d38e24f2a78cd8ac2e7ee333973360a2bc27e94e2c98f14323dac4bc3a",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (Oct 2024)",
+      "category": "AMLO AML/CFT Risk Assessment",
+      "body_sha256": "ecc541d38e24f2a78cd8ac2e7ee333973360a2bc27e94e2c98f14323dac4bc3a",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Financial Institutions Policy Circulars and Notifications Listing (FIPCS)",
+      "category": "BOT Regulations Listing",
+      "body_sha256": "1a603811653c228f8472d17375a6641f2d24eda31a78574b29c06abf6fb6ee6f",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications (AML/CFT Laws, Policy and Measures)",
+      "category": "AMLO Regulations",
+      "body_sha256": "0fc3468f4571c1702968f0716314aadce5b57c9ffd1b2706a479b651468b2f3a",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56": {
+      "title": "AMLO Acts (AML/CFT Laws, Policy and Measures)",
+      "category": "AMLO Regulations",
+      "body_sha256": "754002b586a8d4c3b08c48452b269afaccafbc91a280bbc157b6d53f0424082e",
+      "checked_at": "2026-05-24T15:39:43.769709+00:00"
+    }
+  },
+  "index_checked_at": "2026-05-24T15:40:18.270652+00:00"
 }
