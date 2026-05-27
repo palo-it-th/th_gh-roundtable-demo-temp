@@ -1,5 +1,106 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report",
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-22-05",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy",
+      "published_date": null,
+      "body_sha256": "db060508cd49cd7cfe9ad7a3e145426c3f59d30eefdbf75eb8592a795971c1f1",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "BOT Financial Institutions Policy",
+      "source": "bot"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Thailand - Anti-Money Laundering Office",
+      "published_date": null,
+      "body_sha256": "c5241e05f57830113bc05d5b1c7cbd160ba33bba657125ef2928266ece7e4a6a",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "AMLO Homepage",
+      "source": "amlo"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notification and Circulars - FIPCS",
+      "published_date": null,
+      "body_sha256": "c89030dd6c57463738ae9e5ab1a8cb1ee983b558fe7f5034c5c6a4c8ebcb3f40",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "BOT Notifications and Circulars",
+      "source": "bot"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News and Media",
+      "published_date": null,
+      "body_sha256": "9eed71fe182342efdac28d9b7b29f492e443379d73ae1f9bf8abf23d59eba902",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "BOT News",
+      "source": "bot"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "AMLO National Risk Assessment Reports",
+      "published_date": null,
+      "body_sha256": "3d24054115ea0e2a830caaaeba83d24d6e9b6aa404b3b47bad2bff2dc2a171d2",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "AML/CFT Risk Assessment",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "FATF Public Statements - High Risk Countries",
+      "published_date": null,
+      "body_sha256": "14fa705a7c049c56ef82f8783da7b2603d93f5356874f54d05890a29a4e97b51",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "FATF High Risk Countries / Sanctions",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report": {
+      "title": "Thailand Mutual Evaluation Report",
+      "published_date": null,
+      "body_sha256": "57ed1c12dcf7b69ed17566a53084478068d644ae752a61e95b1dd64b3996081e",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "AML/CFT Mutual Evaluation",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-22-05": {
+      "title": "AMLO Annual Report",
+      "published_date": null,
+      "body_sha256": "3628dace206c50ec5bb8e563c8cafe1a63f13679869c87e0d8ce61fd85d9b3e9",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "AMLO Publications",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52": {
+      "title": "List of Designated Persons under Section 7 (Thailand List)",
+      "published_date": null,
+      "body_sha256": "3bd5dd475e7304cc8f2611246680dd7a4b3644f1e1712bebf0aa89e1b03c3a07",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "Sanctions / Designated Persons",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO AML/CFT Notifications",
+      "published_date": null,
+      "body_sha256": "c76f83feba7b17c8bc634e9140a6b2abf2a77ecfcec2bcebb505c36f433ab13b",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "AML/CFT Laws / Notifications",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15": {
+      "title": "AML/CFT National Strategy and Measures",
+      "published_date": null,
+      "body_sha256": "e585e2a252c96cb6f4d1f3bc3320df74689b9237875b04d15418a96ac7ca7fc6",
+      "checked_at": "2026-05-27T16:30:48Z",
+      "category": "AML/CFT National Strategy",
+      "source": "amlo"
+    }
+  },
+  "index_checked_at": "2026-05-27T16:30:48Z"
 }
