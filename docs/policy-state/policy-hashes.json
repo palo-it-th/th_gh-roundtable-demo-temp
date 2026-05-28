@@ -1,5 +1,65 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52",
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-22-05",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.bot.or.th/en/news-and-media/news.html"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications (AML/CFT Laws/Policy/Measures)",
+      "category": "AMLO",
+      "body_sha256": "1b033153e1fb31b77dbc225a3ecfb8dcf1f341e06f5305a147482e7f051daebe",
+      "checked_at": "2026-05-28T16:37:55Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "AMLO FATF Public Statements — High Risk Jurisdictions",
+      "category": "AMLO",
+      "body_sha256": "0bfe42bb082a85e09814b7e7df78728281c155766708cb84c7cc91a301004e39",
+      "checked_at": "2026-05-28T16:37:55Z"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "AMLO National Risk Assessment Reports",
+      "category": "AMLO",
+      "body_sha256": "feac64c39a36f9a4bec3dd08ad546c1838ff98169f1525310bd8747d0a53b3c7",
+      "checked_at": "2026-05-28T16:37:55Z",
+      "published_date": "2022-12-14"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52": {
+      "title": "AMLO List of Designated Persons under Section 7 (Thailand List)",
+      "category": "AMLO",
+      "body_sha256": "8e23f43917349b188b94932d6fba93e4ddfa02960d6e5590a776339a7f1d4c21",
+      "checked_at": "2026-05-28T16:37:55Z",
+      "published_date": "2026-05-08"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-22-05": {
+      "title": "AMLO Annual Reports",
+      "category": "AMLO",
+      "body_sha256": "666935dc7de4ec58312453a6751aabc2cbf501514d0ebc3b77b40b478906a0a1",
+      "checked_at": "2026-05-28T16:37:55Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notifications and Circulars — FIPCS Listing",
+      "category": "BOT-FIPCS",
+      "body_sha256": "bbc2cb1112c89c9e771df211f3414c7878425d1d11f078bbdb0b3413be9955d0",
+      "checked_at": "2026-05-28T16:37:55Z"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "BOT Financial Institutions and Financial Service Providers Policy",
+      "category": "BOT",
+      "body_sha256": "fda30140499f774def4d5131780367bc1d11a8b5c223886d4c658c1671ede653",
+      "checked_at": "2026-05-28T16:37:55Z"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News and Media",
+      "category": "BOT",
+      "body_sha256": "d85a1d350467c286c1b8704ca01f7e33c9de29bc86f7c57dd678b26e82ad4f5f",
+      "checked_at": "2026-05-28T16:37:55Z"
+    }
+  },
+  "index_checked_at": "2026-05-28T16:37:55Z"
 }
