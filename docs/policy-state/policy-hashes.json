@@ -1,5 +1,268 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680173",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680172",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680171",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680170",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680169",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660218",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650213",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650176",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650111",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650060",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650028",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25640191",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25620179",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25620013",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25610086",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25600026",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25560156",
+    "https://www.amlo.go.th/index.php/news-en/detail/18666",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "financial-institutions-and-financial-service-providers-policy",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "entry_point"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "entry_point"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "PFIPCS_list",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "entry_point"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "news",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "entry_point"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680173": {
+      "title": "Relaxation of the Measures to Prevent Thai Baht Speculation for Non-resident Non-Financial Institutions (NR Non-FIs)",
+      "published_date": "1 Sep 2025",
+      "body_sha256": "bc3a4c47d671698c11b458f5f3646a9c6bd5aef68c890f1bd9c9dd8e2909b730",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Circular of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680172": {
+      "title": "Revision of Rules and Practices under the Measures to Prevent Thai Baht Speculation",
+      "published_date": "1 Sep 2025",
+      "body_sha256": "556e4865b99f44fed615614aebbb5937d315138ff9bfd9b2566cb73cec7173af",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Circular of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680171": {
+      "title": "Notice of the Competent Officer Re: Rules and Practices regarding Currency Exchange (No. 34)",
+      "published_date": "1 Sep 2025",
+      "body_sha256": "4d4eee96c11cd3a18df5e34cbc08a85913f36eb9d18dd45ca58488bddf348804",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notice of the Competent officer"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680170": {
+      "title": "Clarification on Conduct of Thai Baht Transactions with Non-residents and Reporting Requirements under the Measures to Prevent Thai Baht Speculation",
+      "published_date": "1 Sep 2025",
+      "body_sha256": "448e2eb56a8283113be00394c0a4233463cab043433e3ec6733246f13be1daba",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Circular of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680169": {
+      "title": "Revision of Reporting Requirements under the Measures to Prevent Thai Baht Speculation",
+      "published_date": "1 Sep 2025",
+      "body_sha256": "81722c4ea95e35aa3e2e5e286c698c3416e340e00ef61c97ef9897db9a6c23a2",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Circular of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214": {
+      "title": "Ministry of Finance Notification Re: The Application for and the Issuance of a License to Operate a Branch of a Foreign Commercial Bank",
+      "published_date": "23 Dec 2024",
+      "body_sha256": "af495cd3faf98880a1eb1d9d5bd0b8a11f5e7b2d4bae7774a774b256c28be4f4",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The Ministry"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213": {
+      "title": "Ministry of Finance Notification Re: The Application for and the Issuance of a License to Undertake Commercial Banking Business, Finance Business, and Credit Foncier Business",
+      "published_date": "23 Dec 2024",
+      "body_sha256": "e1e8781bac15da6f8ae0fb95ba61622a63982be7e6453a71a38ec3fcd8e52f55",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The Ministry"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046": {
+      "title": "Ministry of Finance Notification Re: Rules, Procedures, and Conditions for the Application for and the Issuance of a Virtual Bank License",
+      "published_date": "20 Feb 2024",
+      "body_sha256": "f8d41e5d2136472d4bebbe0b1dd22e333eb47dfa7cd28f88fce32fa12fcb1e47",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The Ministry"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660218": {
+      "title": "Notification of the Bank of Thailand No. SorKorChor. 6/2566 Re: Regulation on the management of the money received in advance in the case of designated payment services",
+      "published_date": "23 Nov 2023",
+      "body_sha256": "854b47fe734357dd3421740dc3c7f7f9d5dd727a4c10a887a6fda4250a11ab56",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181": {
+      "title": "Guidelines for Biometric Technology Adoption in Financial Services",
+      "published_date": "29 Sep 2023",
+      "body_sha256": "bf84430275d59c3b9ff294c73ca1ec15d30d603fa0e7e732f6d3badf66d60fdb",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Circular of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650213": {
+      "title": "Ministerial Regulations No. 27 (B.E. 2565) issued under the Exchange Control Act B.E. 2485",
+      "published_date": "4 Nov 2022",
+      "body_sha256": "9dbbbdbedd9b57e58778ef4541737bb9bed41edff84d5c530fa242cdeb07f569",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Ministerial Regulation"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650176": {
+      "title": "Re: Annulments of Regulations and Notifications of the Bank of Thailand related to Cheque Clearing (Sor.Ror.Khor. 2/2565)",
+      "published_date": "5 Oct 2022",
+      "body_sha256": "5c0eb771b32e00ad5a510be19a28750128bb5a1a01430261dbcf88e2e2d6fde5",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Regulations"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650111": {
+      "title": "BOT will not recommend any rate to replace Fallback Rate (THBFIX) and expects financial institutions to transition from THBFIX in a timely manner",
+      "published_date": "22 Jun 2022",
+      "body_sha256": "fcf3d499040f3ba8b10f1f1bdba957f1a1540e58b50090ef39c9f0e3021472d1",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Circular of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650060": {
+      "title": "Notification of the Ministry of Finance Re: Directions of the Minister to Authorized Juristic Persons (No. 15)",
+      "published_date": "28 Feb 2022",
+      "body_sha256": "d309ed67d8d8ebb1b1857945904350a06f54b8c3362b3721d73ec93ee4d77e78",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The Ministry"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650028": {
+      "title": "Guidelines for the Calculation of per period Interest Rates for Financial Transactions referencing the Thai Overnight Reference Rate (THOR)",
+      "published_date": "4 Feb 2022",
+      "body_sha256": "016d2f35d4003ab60f8e595eb29ac58a6fc4920edb56a2b629c838b1c5e78460",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25640191": {
+      "title": "The Setting of Contribution Rate, Criteria and Procedures for Remitting Contribution and Surcharge to the Account for Amortization of the Principle to Fiscalize",
+      "published_date": "1 Nov 2021",
+      "body_sha256": "695a927b1cec41d601d1cc6f2dec6de0eeedffcce2f282d931697342b215947f",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25620179": {
+      "title": "Financial Institutions Holidays for B.E. 2563 (2020) (FPG. 17/2562)",
+      "published_date": "25 Jul 2019",
+      "body_sha256": "027adcc1eae21065e4a3c8aae520ae99392313cc28eb7e6fbb0f8e5835240c7c",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25620013": {
+      "title": "Submission of Reports to the Bank of Thailand (SorRorKhor.1/2562)",
+      "published_date": "11 Jan 2019",
+      "body_sha256": "6fa2f9cbc76f591afc6edc4a89ef680c66562ad3aa05cddb8b6ce9c4dda0ce15",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25610086": {
+      "title": "Application for License to Undertake Designated Payment System Business",
+      "published_date": "16 Apr 2018",
+      "body_sha256": "93c98dfbca80ddf9e79648aeba3a131ca39316499168583083298425d6e36467",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25600026": {
+      "title": "Submission of Reports to the Bank of Thailand (SorRorKhor.11/2559)",
+      "published_date": "16 Dec 2016",
+      "body_sha256": "6665ff8f4cec03ffeb537a63a68483fb3e26a30a8584548490be459fe0b84606",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25560156": {
+      "title": "Guidelines and Conditions for Establishing a Branch and Undertaking the Business of a Branch of Foreign Commercial Bank's Subsidiary",
+      "published_date": "13 Jun 2013",
+      "body_sha256": "3055cb91c86ef50fe38f5d61c77ac77a39345cda549e66a9324cd2710a38916f",
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "FIPCS",
+      "doc_type": "Notification of The BOT."
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/18666": {
+      "title": "AMLO News Item 18666",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657": {
+      "title": "AMLO What's New 17657",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802": {
+      "title": "AMLO What's New 18802",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983": {
+      "title": "AMLO What's New 18983",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220": {
+      "title": "AMLO What's New 19220",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-05-29T16:30:27.649930+00:00",
+      "source": "AMLO"
+    }
+  },
+  "index_checked_at": "2026-05-29T16:30:27.649930+00:00"
 }
