@@ -1,5 +1,167 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://www.amlo.go.th/index.php/news-en/detail/18666",
+    "https://www.amlo.go.th/index.php/news-en/detail/17679",
+    "https://www.amlo.go.th/index.php/news-en/detail/17033",
+    "https://www.amlo.go.th/index.php/news-en/detail/16868",
+    "https://www.amlo.go.th/index.php/news-en/detail/16865",
+    "https://www.amlo.go.th/index.php/news-en/detail/16585",
+    "https://www.amlo.go.th/index.php/news-en/detail/16233",
+    "https://www.amlo.go.th/index.php/news-en/detail/15902",
+    "https://www.amlo.go.th/index.php/news-en/detail/15248",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/aml-cft-cpf-standards/faft-standards",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy — BOT",
+      "category": "BOT Policy Index",
+      "published_date": null,
+      "body_sha256": "4860b3880b89d08072f27ad27904eeb5535086ade3f8c9b29908020fc14292d5",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Thailand — English Homepage",
+      "category": "AMLO Index",
+      "published_date": null,
+      "body_sha256": "1e180dbe32d98f625995433d80e10b380d009aefe19c4655a80a2e955ce002d6",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notification and Circulars — FIPCS",
+      "category": "BOT FIPCS Index",
+      "published_date": null,
+      "body_sha256": "1a603811653c228f8472d17375a6641f2d24eda31a78574b29c06abf6fb6ee6f",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "News — Bank of Thailand",
+      "category": "BOT News Index",
+      "published_date": null,
+      "body_sha256": "758a36185a16f6c5dda1a765e50cd2b1d3e5b58f078e4ce26c8c5eee94ad1fb5",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/18666": {
+      "title": "Transaction Committee Seized and Froze Assets Worth Over 10,615 Million Baht Linked to Transnational Organized Crime and Scammer Rings",
+      "category": "AMLO Enforcement Action",
+      "published_date": null,
+      "body_sha256": "cc45c008e406d4f9e24c3d3cdb960c81ff7f3eae2186855e5b223a2b4c8b7e6b",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/17679": {
+      "title": "AMLO Transaction Committee Q2 2025: 4,064 assets from 123 cases valued over 3,260 MB under proceedings",
+      "category": "AMLO Enforcement Action",
+      "published_date": null,
+      "body_sha256": "91472980af485f185c1d021185fda624722c6367cb37ed58967d0d98911c9795",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/17033": {
+      "title": "AMLO proceedings against predicate offense assets (narcotics, fraud, online gambling) exceeding 7,197MB; mule account measures",
+      "category": "AMLO Enforcement Action",
+      "published_date": null,
+      "body_sha256": "1cea6ecfc37982f045afb3f8153dd4a97a2e6b4f6cb2801d5ee8161ea540ccc2",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/16868": {
+      "title": "Joint Statement: Enhancing Policies and Operational Guidelines of Financial Institutions Regarding High-Risk Countries and Sanctions-Related Risks",
+      "category": "AMLO/BOT Joint Policy",
+      "published_date": null,
+      "body_sha256": "090ceb3f0e7e1e01e4828977b5b7ec25d038c87e47ec031644961ca921a1b354",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/16865": {
+      "title": "Outcome of Transaction Committee Meeting 15/2567: 821 assets from 27 cases worth over 4,551 MB under proceedings",
+      "category": "AMLO Enforcement Action",
+      "published_date": null,
+      "body_sha256": "a9969ba376907a99c58fd60453dedc94bdbd97eaf6e9886609dcc76983fff1f5",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/16585": {
+      "title": "Transaction Committee Meeting Outcome: 12,800 assets from 70 cases worth 4,700 MB under proceeding",
+      "category": "AMLO Enforcement Action",
+      "published_date": null,
+      "body_sha256": "38d7088a200603bd925a703d24a79279a72b3686cf317b6e4f650e353e978ffd",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/16233": {
+      "title": "AMLO, SEC, and SET strengthen collaboration to combat illegal securities trading activities",
+      "category": "AMLO Collaboration",
+      "published_date": null,
+      "body_sha256": "749946190e76c7e3df57f90015b7bf923c79907bf8a7380c86c59f551cd8e8ed",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/15902": {
+      "title": "Joint Press Release — AMLO and BOT reiterate enhanced due diligence for high-risk country transactions",
+      "category": "AMLO/BOT Joint Policy",
+      "published_date": null,
+      "body_sha256": "915b17ef81782dc0d89dec03ef6fae34b6fa313c7a49d3b36f05f056d2160725",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/news-en/detail/15248": {
+      "title": "AMLO, MDES and RTP joint operations on call center gang — 13 locations, assets over 1.2 billion baht",
+      "category": "AMLO Enforcement Action",
+      "published_date": null,
+      "body_sha256": "73d4f8b9c5940c8cc5a651f105dfef53bab6acb7c5a852636929bc13726c7a7e",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56": {
+      "title": "AML/CFT Laws — Acts (Anti-Money Laundering Act B.E. 2542, Counter-Terrorism Act)",
+      "category": "AMLO AML/CFT Laws",
+      "published_date": null,
+      "body_sha256": "68f397ce4b464a3bfda0d5084cd6d6c3788a11d2d70c0216ce7385bfcbb2b0d9",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "Thailand National Risk Assessment Reports — AMLO",
+      "category": "AMLO Risk Assessment",
+      "published_date": null,
+      "body_sha256": "4f6a07db3a55c021e5b8ea78e0b644432f3a2986fbe22debf23ee0e0a1cdf79e",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-cpf-standards/faft-standards": {
+      "title": "FATF Standards — AMLO Thailand",
+      "category": "AMLO FATF Standards",
+      "published_date": null,
+      "body_sha256": "b945812b45a61ea28ecfc33bcea8e738adab04961e85948a08ef1ec99515b1dd",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181": {
+      "title": "Guidelines for Biometric Technology Adoption in Financial Services — BOT Circular 29 Sep 2023",
+      "category": "BOT Circular — KYC/Digital Identity",
+      "published_date": "2023-09-29",
+      "body_sha256": "de9c538e07f1330b9cdd27e1fbce4eca4998227dfd0067476536c6bf045c2ffd",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046": {
+      "title": "Ministry of Finance Notification Re: Rules for Virtual Bank License — 20 Feb 2024",
+      "category": "BOT/MoF Notification — Licensing",
+      "published_date": "2024-02-20",
+      "body_sha256": "de9c538e07f1330b9cdd27e1fbce4eca4998227dfd0067476536c6bf045c2ffd",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214": {
+      "title": "Ministry of Finance Notification Re: License to Operate Branch of Foreign Commercial Bank — 23 Dec 2024",
+      "category": "BOT/MoF Notification — Licensing",
+      "published_date": "2024-12-23",
+      "body_sha256": "de9c538e07f1330b9cdd27e1fbce4eca4998227dfd0067476536c6bf045c2ffd",
+      "checked_at": "2026-05-30T15:41:59Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213": {
+      "title": "Ministry of Finance Notification Re: License to Undertake Commercial Banking/Finance/Credit Foncier Business — 23 Dec 2024",
+      "category": "BOT/MoF Notification — Licensing",
+      "published_date": "2024-12-23",
+      "body_sha256": "de9c538e07f1330b9cdd27e1fbce4eca4998227dfd0067476536c6bf045c2ffd",
+      "checked_at": "2026-05-30T15:41:59Z"
+    }
+  },
+  "index_checked_at": "2026-05-30T15:41:59Z"
 }
