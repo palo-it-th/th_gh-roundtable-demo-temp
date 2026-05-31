@@ -1,5 +1,87 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://www.amlo.go.th/index.php/en/"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "AMLO FATF Public Statements - High Risk Jurisdictions",
+      "category": "FATF/High-Risk Countries",
+      "source": "AMLO",
+      "teaser": "FATF public statements on High Risk Jurisdictions subject to Call for Action and Jurisdictions under Increased Monitoring, updated February 2026",
+      "body_sha256": "a5d785ecbca4f2f31a5a5f3f6cfed267d8ef889799bc90a73a841fe5dcfcc475",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52": {
+      "title": "AMLO List of Designated Persons under Section 7 (Thailand List)",
+      "category": "Sanctions/Designated Persons",
+      "source": "AMLO",
+      "teaser": "List of Designated Persons updated as of 8 May 2026 under AMLA B.E. 2542 Section 7",
+      "body_sha256": "bf21850fd4775d8a9f505557898f3938d077bbe68b8ea8be557e1509d0606878",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO AML/CFT Notifications",
+      "category": "AML/CFT Notifications",
+      "source": "AMLO",
+      "teaser": "AMLO notifications including PEPs guidance (Dec 2025), risk assessment submission guidelines (Jul 2024), enhanced due diligence (Jan 2024), KYC/CDD guidelines",
+      "body_sha256": "546fc15a0198fe26ee5639c4db58b4d0ab406f974a383c4a73bde7d758dcaec8",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "Thailand National Risk Assessment Reports (ML/TF/PF)",
+      "category": "Risk Assessment",
+      "source": "AMLO",
+      "teaser": "Thailand National Risk Assessment on ML/TF/PF (August 2022), published December 2022",
+      "body_sha256": "be54efebbe3b73cda1f6cfabd53cb1f12e4fdc7d4a5643d0206c60c505cd6924",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "BOT Financial Institutions and Financial Service Providers Policy",
+      "category": "BOT Policy",
+      "source": "BOT",
+      "teaser": "Overview of BOT policy for financial institutions covering prudential, governance, consumer protection and macro-prudential frameworks",
+      "body_sha256": "4860b3880b89d08072f27ad27904eeb5535086ade3f8c9b29908020fc14292d5",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Financial Institutions Policy Circulars and Notifications (FIPCS)",
+      "category": "BOT Circulars/Notifications",
+      "source": "BOT",
+      "teaser": "Complete listing of BOT notifications and circulars for financial institutions including biometric guidelines (2023), virtual bank licensing (2024), payment service regulations",
+      "body_sha256": "1a603811653c228f8472d17375a6641f2d24eda31a78574b29c06abf6fb6ee6f",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News and Media",
+      "category": "BOT News",
+      "source": "BOT",
+      "teaser": "Bank of Thailand news and media announcements",
+      "body_sha256": "758a36185a16f6c5dda1a765e50cd2b1d3e5b58f078e4ce26c8c5eee94ad1fb5",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO - Anti-Money Laundering Office Thailand (English)",
+      "category": "AMLO Homepage",
+      "source": "AMLO",
+      "teaser": "Main AMLO website with access to AML/CFT laws, policies, risk assessments, designated persons lists and FATF statements",
+      "body_sha256": "e502f03a1f7c29960edafe24a82df1acaee336ffaefd9854e3e61b8fa6b3c008",
+      "checked_at": "2026-05-31T15:38:56+00:00",
+      "published_date": null
+    }
+  },
+  "index_checked_at": "2026-05-31T15:38:56+00:00"
 }
