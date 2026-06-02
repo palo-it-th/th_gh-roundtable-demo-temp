@@ -1,5 +1,79 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report",
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-24-28",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "AMLO National Risk Assessment Reports",
+      "category": "risk-assessment",
+      "published_date": null,
+      "body_sha256": "735fb488d6bdf7a030126c36124dfa97872fd463c2d0cf95834184d4d3591d8f",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO AML/CFT Notifications",
+      "category": "aml-cft-laws",
+      "published_date": null,
+      "body_sha256": "8c8f886c3d4faa4cfbd1b843ab749eb9e6eb8eac5679edda20267cb091b0cd68",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15": {
+      "title": "AMLO AML/CFT National Strategy & Measures",
+      "category": "aml-cft-laws",
+      "published_date": "2024-01-11",
+      "body_sha256": "92d5ffa09bb3bc04572bdda3c65d3c25659ba53719ba9afd389ae207e9ec2fa4",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "AMLO FATF Public Statements \u2014 High Risk Jurisdictions",
+      "category": "high-risk-countries",
+      "published_date": "2026-02-13",
+      "body_sha256": "89e7a905aa67cfddc64ea6f2225e1cea0c739d09833ce662c0f2076d6d8fa74b",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report": {
+      "title": "AMLO Thailand Mutual Evaluation Report",
+      "category": "publications",
+      "published_date": "2022-10-07",
+      "body_sha256": "f97832ab1f728bbc926a95418385e1e19f0f0ac1221d43165767b6d4f0627f3e",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-24-28": {
+      "title": "AMLO Typologies Reports",
+      "category": "publications",
+      "published_date": null,
+      "body_sha256": "565591397245305f0fb7faf567355f492f3a28a2a6eaa0cb817dc5a4ee0d6c0c",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "BOT Financial Institutions and Financial Service Providers Policy",
+      "category": "fi-policy",
+      "published_date": null,
+      "body_sha256": "4860b3880b89d08072f27ad27904eeb5535086ade3f8c9b29908020fc14292d5",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News & Media",
+      "category": "news",
+      "published_date": null,
+      "body_sha256": "758a36185a16f6c5dda1a765e50cd2b1d3e5b58f078e4ce26c8c5eee94ad1fb5",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Financial Institutions Policy Circulars System (FIPCS)",
+      "category": "circulars",
+      "published_date": null,
+      "body_sha256": "1a603811653c228f8472d17375a6641f2d24eda31a78574b29c06abf6fb6ee6f",
+      "checked_at": "2026-06-02T16:46:37.978262+00:00"
+    }
+  },
+  "index_checked_at": "2026-06-02T16:46:37.978262+00:00"
 }
