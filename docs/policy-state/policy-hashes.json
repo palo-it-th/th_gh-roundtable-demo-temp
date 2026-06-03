@@ -1,5 +1,112 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://www.amlo.go.th/index.php/en/whatsnew",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/19220",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17657",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17097",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16849",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16571",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15899",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15368",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15218"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy",
+      "published_date": null,
+      "body_sha256": "3b03e4afebd3e2e34f4d450a9ff94a14995da4c1ce7ba33bfe252f27ddf0aecb",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Homepage (English)",
+      "published_date": null,
+      "body_sha256": "503241c4eadd7a3e574595775b3cdf427335e3c7c96d161b1a56e505b13fbfb9",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notification and Circulars - FIPCS",
+      "published_date": null,
+      "body_sha256": "abca4435ece0f1e8754bdd411cea8374acb304007d289caa2776f0aba7150cab",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News",
+      "published_date": null,
+      "body_sha256": "1704b506e93014601165afd078807549c8477c75dc42527db33a649a6293001a",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew": {
+      "title": "AMLO What's New",
+      "published_date": null,
+      "body_sha256": "f926412179359edb9baf2e6ad3ce70133e4fe2a9b6334e695272aa6870d0102a",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/19220": {
+      "title": "List of Designated Persons (Updated as of 8 May 2026)",
+      "published_date": "2026-05-08",
+      "body_sha256": "e1ffc8fa9a88899fd7fae59a8fd281a7b7aaebc6046b2a8c494baef6fcf4dbee",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18802": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2026)",
+      "published_date": "2026-02-01",
+      "body_sha256": "13956e9fda6a294264b14e37a2e3ea07e517ae6ca1b216f5ed31e8abbf9b5b83",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18983": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of October 2025)",
+      "published_date": "2025-10-01",
+      "body_sha256": "b5885051ddf8eabc638c1dbe7f1e7bd77d6d073f6f1569a47f647c6e6847fa2a",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17657": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of June 2025)",
+      "published_date": "2025-06-01",
+      "body_sha256": "cddaad188250ce6a4f914a8825c437b93613de40d22c3a1e66d540ee772b46cc",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17097": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2025)",
+      "published_date": "2025-02-01",
+      "body_sha256": "e22ecd8296941871e385b5289cb312cb959e5b3e7e4bbe5ed1171d1ad94cc4bf",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16849": {
+      "title": "Counter-Terrorism and Proliferation of Weapons of Mass Destruction Financing Act (No. 2) B.E. 2567 (2024)",
+      "published_date": "2024-01-01",
+      "body_sha256": "04f52cffd4ed212d7fada51d5a3a0aaa2d9b913b6b4db94c6de56e44a59b075b",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16571": {
+      "title": "List of High Risks Countries in accordance with FATF Public Statement (As of October 2024)",
+      "published_date": "2024-10-01",
+      "body_sha256": "83f0e7871fd0f4911262645cdd242aeace647d5adb8b22afbf0c257783cd47d5",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15899": {
+      "title": "List of High Risks Countries in accordance with FATF Public Statement (As of June 2024)",
+      "published_date": "2024-06-01",
+      "body_sha256": "8366d940aa2a44d3590da9fcf935ca5c8885e26011b5886ce125ecb5ad2b851e",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15368": {
+      "title": "List of High Risks Countries in accordance with FATF Public Statement (As of February 2024)",
+      "published_date": "2024-02-01",
+      "body_sha256": "2670f2b26264689f167d23ab37a36059d78aa3287e132a84beedbc60b4b8a5b0",
+      "checked_at": "2026-06-03T16:48:45Z"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15218": {
+      "title": "Anti-Money Laundering Office Notification Concerning High-risk Area or Jurisdiction Subject to Application of Enhanced Due Diligence",
+      "published_date": "2023-12-01",
+      "body_sha256": "8e868303c765e39ddb4841ec9d8e1ef3b2c0dda42b691d4801325a6be8bb982b",
+      "checked_at": "2026-06-03T16:48:45Z"
+    }
+  },
+  "index_checked_at": "2026-06-03T16:48:45Z"
 }
