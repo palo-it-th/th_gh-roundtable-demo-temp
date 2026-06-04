@@ -1,5 +1,79 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.bot.or.th/en/news-and-media/news.html"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications — AML/CFT Laws/Policy/Measures",
+      "published_date": null,
+      "body_sha256": "37c32f710845cb39f1d281ac60813005cb0a6e54895c17c60fc6fb6ce385ed65",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "AMLO Notifications",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "FATF Public Statements — High Risk Countries & Designated List",
+      "published_date": null,
+      "body_sha256": "6912a570b88c7f721bccbb73e7c1b34f02e736466c375e3505692b0b63c2f6da",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "FATF / Sanctions",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-50-52": {
+      "title": "List of Designated Persons under Section 7 (Thailand List)",
+      "published_date": null,
+      "body_sha256": "a69fee0f5a4d52c274fb38e1e8d7c9575a444fd3b580daf72736c7e7408eecd6",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "Sanctions / Designated Persons",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15": {
+      "title": "AML/CFT National Strategy & Measures",
+      "published_date": null,
+      "body_sha256": "8d0d76686537f05f3cf108c511c26b0ec425f9d1e25f04213c6d4c0cf18b5e50",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "AML/CFT Strategy",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "National Risk Assessment Reports",
+      "published_date": null,
+      "body_sha256": "aecbb54cffad232d5a0749de5a48ea051c8f0cfec902f38ad2a22962476da7f3",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "Risk Assessment",
+      "source": "amlo"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notifications and Circulars (FIPCS) — Financial Institutions",
+      "published_date": null,
+      "body_sha256": "6ea84dc52e70448f40c20107daa714523075f8d52f669499ebf557867afb0aee",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "BOT Notifications / Circulars",
+      "source": "bot"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy",
+      "published_date": null,
+      "body_sha256": "1c816213db3a223978164271430fe278fdb608a80efec22e5cc83d0b9f98c082",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "BOT Policy",
+      "source": "bot"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News and Media",
+      "published_date": null,
+      "body_sha256": "bc38000cd71591468e1fac150ad6793b1478b93d31f8778f241caf8c8dff64f5",
+      "checked_at": "2026-06-04T16:18:57Z",
+      "category": "BOT News",
+      "source": "bot"
+    }
+  },
+  "index_checked_at": "2026-06-04T16:18:57Z"
 }
