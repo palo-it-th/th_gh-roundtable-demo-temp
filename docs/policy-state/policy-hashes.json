@@ -1,5 +1,219 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/19220",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17657",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17097",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16849",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16571",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15899",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15368",
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15218",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/18666",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17679",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17033",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16868",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16865",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16585",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16233",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16186",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/15695",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://www.amlo.go.th/index.php/news-en",
+    "https://www.amlo.go.th/index.php/whatsnew",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/15902",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680173",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680171",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680169",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660218",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650213",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650111",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650060",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25640191",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25620013",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25610086",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25590200",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25570145",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25570140",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25560199"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/19220": {
+      "title": "List of Designated Persons (Updated as of 8 May 2026)",
+      "published_date": "08 May 2026",
+      "body_sha256": "2981742d90ba837dc3ceb4a0298dad76801d0b3951c7e0a7ef9edc1d13db2668",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Designated person&rsquo;s right A Designated person in the list announced by AMLO in accordance with a Civil Court order may file a petition with the court to consider the following matters: To order "
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18802": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2026)",
+      "published_date": "13 Feb 2026",
+      "body_sha256": "596e028550e883d76eefb6a4cd1f31eb20ef8323f7a4beade4eeeece2b7e7bf9",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. 2026_02_February.xlsx 2. 2026_02_February.pdf"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/18983": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of October 2025)",
+      "published_date": "24 Oct 2025",
+      "body_sha256": "303b244c8f487d7b8a9879bf779865830d59a60bc5d025857e9bbbc2acd54909",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. 2025_10_October.pdf 2. 2025_10_October.xlsx"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17657": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of June 2025)",
+      "published_date": "17 Jun 2025",
+      "body_sha256": "37521b94021b0685faaf59bdea75bde4917fe732e8175024debf772ad3471ec9",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. 2025_06_June.pdf 2. 2025_06_June.xlsx"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/17097": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2025)",
+      "published_date": "24 Feb 2025",
+      "body_sha256": "33881a538a02f0d6d5a9a12f7c10916243c88d652dab0dadd243537d1dec565c",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. 2025_02 February.pdf 2. 2025_02 February.xlsx"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16849": {
+      "title": "Counter-Terrorism and Proliferation of Weapons of Mass Destruction Financing Act (No. 2) B.E. 2567 (2024)",
+      "published_date": "27 Dec 2024",
+      "body_sha256": "1556c6fb9ad6dec1e9cc46134dbf50230cac7bef263ee9dfaf0258d042eb1dd2",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. CTPF Act No 2 final.pdf"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/16571": {
+      "title": "List of High Risks Countries in accordance with FATF Public Statement (As of October 2024)",
+      "published_date": "25 Oct 2024",
+      "body_sha256": "98871f14752bbd28a1e1af637cb7590415b34c4c4dad8185c090329f10fa9fe0",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. 2024_10 October.xlsx 2. 2024_10 October.pdf"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15899": {
+      "title": "List of High Risks Countries in accordance with FATF Public Statement (As of June 2024)",
+      "published_date": "28 Jun 2024",
+      "body_sha256": "959bdc5c4cc7dcf07cab9b9f5b218ab2dbd30ced2b112bcd4c94fb099f4a6253",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. 2024_06 June.xlsx 2. 2024_06 June.pdf"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15368": {
+      "title": "List of High Risks Countries in accordance with FATF Public Statement (As of February 2024)",
+      "published_date": "24 Feb 2024",
+      "body_sha256": "674abfd2ab86dc35902def0310d4fcd96f04d21bf457b30b5f2dd148a00e0ec5",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. 2024_02 February.xlsx 2. 2024_02 February.pdf"
+    },
+    "https://www.amlo.go.th/index.php/en/whatsnew/detail/15218": {
+      "title": "Anti-Money Laundering Office Notification Concerning High-risk Area or Jurisdiction Subject to Application of Enhanced Due Diligence",
+      "published_date": "24 Jan 2024",
+      "body_sha256": "9225481afe6a0f776c7ac9f875bfb86be3d7f15a547f049c35c604b87216d2a1",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO Whatsnew",
+      "source": "amlo.go.th",
+      "teaser": "Download File 1. AMLON High Risk Areas Myanmar issued.pdf"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/18666": {
+      "title": "The Transaction Committee Seized and Froze Assets Worth Over 10,615 Million Baht in Major Cases Linked to Transnational Organized Crime Networks and Scammer Rings",
+      "published_date": "03 Dec 2025",
+      "body_sha256": "55c06f191843c9258bf19b5ac9ecb172350f216fcff26fc13cd18a64c2520a0f",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "Cookie settings --> --> สำนักงานป้องกันและปราบปรามการฟอกเงิน. Background Vision and Missions Duty and Power Structure (AMLO/AMLB/Transaction Committee) Contact us สถิติระบบคุ้มครองสิทธิผู้เสียหาย แนวท"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17679": {
+      "title": "The Anti-Money Laundering Office (AMLO) released the outcomes  of the Transaction Committee’s meetings from April to June 2025 4,064 assets items from 123 cases,  valued over 3,260 MB under proceedings  Assigned 136 cases to competent officials for assets examination",
+      "published_date": "17 Jun 2025",
+      "body_sha256": "703f359f8625fb8af7b6b7a8431e3175fe989c32e46981638399cd43520f50a4",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "Cookie settings --> --> สำนักงานป้องกันและปราบปรามการฟอกเงิน. Background Vision and Missions Duty and Power Structure (AMLO/AMLB/Transaction Committee) Contact us สถิติระบบคุ้มครองสิทธิผู้เสียหาย แนวท"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17033": {
+      "title": "The Anti-Money Laundering Office (AMLO) announced the outcomes of the proceeding against assets related to predicate offenses on narcotics, fraud, and online gambling during  December 2024 to January 2025, with a total value of assets involved exceeding 7,197 million baht, and the application of measures for prevention and addressing mule accounts.",
+      "published_date": "11 Feb 2025",
+      "body_sha256": "f5a7144422ae2dff357e3eb29fed645bdf3d11bf9e3206ebd561d54f960fc554",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "Cookie settings --> --> สำนักงานป้องกันและปราบปรามการฟอกเงิน. Background Vision and Missions Duty and Power Structure (AMLO/AMLB/Transaction Committee) Contact us สถิติระบบคุ้มครองสิทธิผู้เสียหาย แนวท"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16868": {
+      "title": "Joint Statement Enhancing Policies and Operational Guidelines of Financial Institutions Regarding Transactions with High-Risk Countries and Managing Sanctions-Related Risks",
+      "published_date": "06 Jan 2025",
+      "body_sha256": "0b80500fb295ae8a28d44039c9fc01fd568b63f77fd0be877155948d62ab6ac1",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "Cookie settings --> --> สำนักงานป้องกันและปราบปรามการฟอกเงิน. Background Vision and Missions Duty and Power Structure (AMLO/AMLB/Transaction Committee) Contact us สถิติระบบคุ้มครองสิทธิผู้เสียหาย แนวท"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16865": {
+      "title": "Outcome of the Transaction Committee’s 15/2567 Meeting on 16th December 2024     821 assets items from 27 cases,  Worth more than 4,551 MB under proceedings  Assigned 66 cases to competent officials for assets examination",
+      "published_date": "16 Dec 2024",
+      "body_sha256": "d7871681c6117a692e14cab85451b79c82b4fc19fe1a0b856485276e375e6fd5",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "Cookie settings --> --> สำนักงานป้องกันและปราบปรามการฟอกเงิน. Background Vision and Missions Duty and Power Structure (AMLO/AMLB/Transaction Committee) Contact us สถิติระบบคุ้มครองสิทธิผู้เสียหาย แนวท"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16585": {
+      "title": "Outcome of the Transaction Committee’s Meeting 12,800 assets items from 70 cases worth 4,700 MB under proceeding,  Assign 48 cases to competent officials for assets examination",
+      "published_date": "20 Sep 2024",
+      "body_sha256": "e5a4e0a744031376074f045a8b2714e5b66fcb016b93a966b3361b867810a86f",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "Cookie settings --> --> สำนักงานป้องกันและปราบปรามการฟอกเงิน. Background Vision and Missions Duty and Power Structure (AMLO/AMLB/Transaction Committee) Contact us สถิติระบบคุ้มครองสิทธิผู้เสียหาย แนวท"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16233": {
+      "title": "AMLO, SEC, and SET strengthen collaboration to combat illegal securities trading activities",
+      "published_date": "26 Aug 2024",
+      "body_sha256": "08419f983fa1ee24d259e20a9aa13262dbecb52043beaf9ee5d7f98573566c8a",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "AMLO, SEC, and SET strengthen collaboration to combat illegal securities trading activities BANGKOK, August 26, 2024 - The Anti-Money Laundering Office (AMLO), the Securities and Exchange Commission ("
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16186": {
+      "title": "25 Years of Commitment to Development for National and Public Security Proceeding with assets worth over 25,631 million baht, cutting off financial support for persons involved in terrorism and the proliferation of weapons of mass destruction, and cl",
+      "published_date": "19 Aug 2024",
+      "body_sha256": "2ec255e5663d5c5d53060e476be30faaf0cd7ca51fe396b62cf6f6660e1e5cd4",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "August 19, 2024, the Anti-Money Laundering Office (AMLO) held an event to commemorate the 25th anniversary of its establishment. The event was presided over by Mr. Chatchai Promlert, Chairman of the A"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/15695": {
+      "title": "Outcome of the Transaction Committee Meeting for April 2024 and  6 months performance of 2024 fiscal year.",
+      "published_date": "24 Apr 2024",
+      "body_sha256": "ec4067d2533be5b7d73448909600b416b00a1dd381755c6879d4dbd0b5cedc50",
+      "checked_at": "2026-06-08T16:42:31.726176+00:00",
+      "category": "AMLO News",
+      "source": "amlo.go.th",
+      "teaser": "On 24 April 2024, Mr. Theppasu Bavornchotidara, Secretary-General of the&nbsp;Anti-Money Laundering Board, Mr. Witthaya Neetitham, Director of Legal Division and Spokesperson of AMLO together with Dep"
+    }
+  },
+  "index_checked_at": "2026-06-08T16:46:23.636771+00:00"
 }
