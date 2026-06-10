@@ -1,5 +1,232 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-55-30",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-57-57",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15",
+    "https://www.amlo.go.th/index.php/en/aml-cft-cpf-standards/faft-standards",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/risk-assessment/npo-risk-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50/detail/18803",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50/detail/17098",
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-24-28",
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-29-43",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYThailandYforYPublicationYEnglish_6112.pdf"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy",
+      "category": "BOT Policy",
+      "source": "Bank of Thailand",
+      "published_date": null,
+      "body_sha256": "7c1c9abac1152f0234592dcce4952e6542b744af93478aa7d42ee4f07f4f5a2e",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT News and Media",
+      "category": "BOT News",
+      "source": "Bank of Thailand",
+      "published_date": null,
+      "body_sha256": "4b925314051e1cf4e0c3cdec7711f9b8a115efcd51a582ed2a285467bb8d20d4",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notifications and Circulars (FIPCS)",
+      "category": "BOT Circulars/Notifications",
+      "source": "Bank of Thailand FIPCS",
+      "published_date": null,
+      "body_sha256": "733339d92bac9b53b5d7862f1e2b71a5eeb249048b779e229fac6c0a6ae21f39",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO Thailand — Anti-Money Laundering Office",
+      "category": "AMLO Home",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "ec45e948d88d07e8b6a282873a94cdc10e5f9895cd589384ac0e70c84fe13bb6",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56": {
+      "title": "AML/CFT Laws — Acts",
+      "category": "AMLO Legislation",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "e24cca4f0957da1462cf3627966648c32ee4d58a14d9fb3650deeea76d4ff750",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-55-30": {
+      "title": "AML/CFT Laws — Ministerial Regulations (MRs)",
+      "category": "AMLO Legislation",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "df8005e821205d5f8bd34b9c85b2d758f11d633e40416504f837b22ea8982170",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-57-57": {
+      "title": "AML/CFT Laws — Ordinances",
+      "category": "AMLO Legislation",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "da022b903eb4cd5acf62d83388b6e0812983d73d4e0827b3c7ce752b4c93b57e",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications — AML/CFT Laws and Policy Measures",
+      "category": "AMLO Notifications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "7c36c1197e50cfe50cf485ae8b7317e2598edce63044e9a28deacd484dc9b110",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-59-15": {
+      "title": "AML/CFT National Strategy and Measures",
+      "category": "AMLO Strategy",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "2b1e43d13a22896d059ee2e0bcd452b7cdb5d84e5642e9eb4acf3eb5d1e29fcb",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-cpf-standards/faft-standards": {
+      "title": "FATF Standards — AML/CFT/CPF Standards",
+      "category": "AMLO FATF Standards",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "592a916c491fc34a16b771111f88f482d1d82623a1a586e9fb67566d122aa386",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "National Risk Assessment Reports",
+      "category": "AMLO Risk Assessment",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "eb605faeaf7d3db1098843329b76f4e461d1809166207370bff04c6fd12f08ec",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/risk-assessment/npo-risk-assessment-reports": {
+      "title": "NPO Risk Assessment Reports",
+      "category": "AMLO Risk Assessment",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50": {
+      "title": "FATF Public Statements — High-Risk Countries and Designated Persons",
+      "category": "AMLO FATF High-Risk Countries",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "96f867f5bf95737bf249038bd1252b75d5bd4b815fc08bd8bb6109e9bbd51193",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50/detail/18803": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2026)",
+      "category": "AMLO FATF High-Risk Countries",
+      "source": "AMLO Thailand",
+      "published_date": "2026-02",
+      "body_sha256": "61a8357f3d69cce8b74e2a1abf7838025d80257a2ec7063af8c096f09cacbb16",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/2016-06-04-14-49-50/detail/17098": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2025)",
+      "category": "AMLO FATF High-Risk Countries",
+      "source": "AMLO Thailand",
+      "published_date": "2025-02",
+      "body_sha256": "61a8357f3d69cce8b74e2a1abf7838025d80257a2ec7063af8c096f09cacbb16",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-24-28": {
+      "title": "AMLO Typologies Reports",
+      "category": "AMLO Publications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "993b94ef3dfce928be0ad66259249b47f25b7317c82d2de62f10247978ea82a4",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/2016-06-04-15-29-43": {
+      "title": "AML/CFT Related Articles and Issues",
+      "category": "AMLO Publications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": "668cd57b1379aeb25f86ec91ed3093483d081b28d48f07550a2fc6139b529403",
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report": {
+      "title": "Thailand Mutual Evaluation Report",
+      "category": "AMLO Publications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf": {
+      "title": "AMLO Notification Concerning Politically Exposed Persons (PEPs)",
+      "category": "AMLO Notifications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf": {
+      "title": "AMLO Notification Concerning High-risk Area or Jurisdiction (Myanmar)",
+      "category": "AMLO Notifications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf": {
+      "title": "AMLO Notification Concerning Guideline for Identification and Verification of Beneficial Owners",
+      "category": "AMLO Notifications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf": {
+      "title": "AMLO Notification Concerning High-risk Areas or Jurisdictions Subject to Application of Enhanced Customer Due Diligence",
+      "category": "AMLO Notifications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf": {
+      "title": "AMLO Notification Re: Guidelines for Prescribing Factors for Consideration for Low Risk Customer (No. 2)",
+      "category": "AMLO Notifications",
+      "source": "AMLO Thailand",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf": {
+      "title": "Prime Minister Office Notification on Customer Identification under Section 16 B.E. 2562",
+      "category": "AMLO Notifications",
+      "source": "AMLO Thailand",
+      "published_date": "2562",
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYThailandYforYPublicationYEnglish_6112.pdf": {
+      "title": "Thailand National Risk Assessment on ML/TF/PF (August 2022)",
+      "category": "AMLO Risk Assessment",
+      "source": "AMLO Thailand",
+      "published_date": "2022-08",
+      "body_sha256": null,
+      "checked_at": "2026-06-10T16:33:28Z"
+    }
+  },
+  "index_checked_at": "2026-06-10T16:33:28Z"
 }
