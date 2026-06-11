@@ -1,5 +1,225 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/news-en/detail/18666",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17679",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17033",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16868",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16865",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16585",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16233",
+    "https://www.amlo.go.th/index.php/en/news-en/detail/15902",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660218",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-55-30",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-57-57",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/transaction-committee-order",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://www.amlo.go.th/index.php/news-en"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/news-en/detail/18666": {
+      "title": "The Transaction Committee Seized and Froze Assets Worth Over 10,615 Million Baht in Major Cases Linked to Transnational Organized Crime Networks and Scammer Rings",
+      "published_date": "2025-12-03",
+      "body_sha256": "ed5ce5ebc33e6b9483af0a8363cc71c39775d6f2bd51ae75412532329721de33",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17679": {
+      "title": "The Anti-Money Laundering Office (AMLO) released the outcomes  of the Transaction Committee’s meetings from April to June 2025 4,064 assets items from 123 cases,  valued over 3,260 MB under proceedings  Assigned 136 cases to competent officials for assets examination",
+      "published_date": "2025-06-17",
+      "body_sha256": "6a0af273908fca44e4f5c8e68bd311fb8de944724d17f4fd1f9a7ab778acb23f",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/17033": {
+      "title": "The Anti-Money Laundering Office (AMLO) announced the outcomes of the proceeding against assets related to predicate offenses on narcotics, fraud, and online gambling during  December 2024 to January 2025, with a total value of assets involved exceeding 7,197 million baht, and the application of measures for prevention and addressing mule accounts.",
+      "published_date": "2025-02-11",
+      "body_sha256": "f302e73fce712a9381549abab6f36f105cf48bc356e6571738f5a773370b214a",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16868": {
+      "title": "Joint Statement Enhancing Policies and Operational Guidelines of Financial Institutions Regarding Transactions with High-Risk Countries and Managing Sanctions-Related Risks",
+      "published_date": "2025-01-06",
+      "body_sha256": "9165c1c2557d951e14bf4979d2062379b6a1ac8ba84a53f8e21f5a3287ff0f04",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16865": {
+      "title": "Outcome of the Transaction Committee’s 15/2567 Meeting on 16th December 2024     821 assets items from 27 cases,  Worth more than 4,551 MB under proceedings  Assigned 66 cases to competent officials for assets examination",
+      "published_date": "2024-12-16",
+      "body_sha256": "aa79c3d8bd52ca21e35c29c8b3926a40c1097a602c20a7ffb1c60a0e70dea258",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16585": {
+      "title": "Outcome of the Transaction Committee’s Meeting 12,800 assets items from 70 cases worth 4,700 MB under proceeding,  Assign 48 cases to competent officials for assets examination",
+      "published_date": "2024-09-20",
+      "body_sha256": "c05313849d53b5e38da058ad3f6e76b3aedef5549dd31053565da2bb62b79b1e",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/16233": {
+      "title": "AMLO, SEC, and SET strengthen collaboration to combat illegal securities trading activities",
+      "published_date": "2024-08-26",
+      "body_sha256": "bb7504c5abe5be85f9b40fd7682d1b9256c24612171e8bd9713f15ae6785b5e5",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/en/news-en/detail/15902": {
+      "title": "Joint Press Release - Anti-Money Laundering Office and Bank of Thailand reiterate the need for financial institutions to ensure enhanced due diligence of transactions related to countries with high risk of engaging in money laundering activities",
+      "published_date": "2024-06-01",
+      "body_sha256": "b7a8f268de2603af6577c410900c5ad0986025941691708372a9015d00cc989d",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement/news",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220": {
+      "title": "List of Designated Persons (Updated as of 8 May 2026)",
+      "published_date": "2026-05-14",
+      "body_sha256": "083fd056ce36da494ce9d82bcdc347e5e92f9317a2c331d02402c9fd8b4ee9f9",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO designated persons/risk",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2026)",
+      "published_date": "2026-02-16",
+      "body_sha256": "1933580bc2ee7a1a70ce84b07dc4241c6803b79310a138e828052551ae882460",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO designated persons/risk",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of October 2025)",
+      "published_date": "2025-10-01",
+      "body_sha256": "b4e8f6bb41e463de77241793c48dcf58c72e559dfa98feb339c0a4f87f010d2b",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO designated persons/risk",
+      "source": "amlo"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of June 2025)",
+      "published_date": "2025-06-01",
+      "body_sha256": "829d582ed418bce131e148ebb4bd8e46802e76331b1345fe09298f6a8d37eb05",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO designated persons/risk",
+      "source": "amlo"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214": {
+      "title": "Ministry of Finance Notification Re: Application for License to Operate a Branch of a Foreign Commercial Bank",
+      "published_date": "23 Dec 2024",
+      "body_sha256": "c29330907bae2562672445b7b3bdcb736d1d019e6b1ee68349c8da60295344b9",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "BOT notification/circular (FIPCS)",
+      "source": "bot_fipcs"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213": {
+      "title": "Ministry of Finance Notification Re: Application for License to Undertake Commercial Banking Business, Finance Business, and Credit Foncier Business",
+      "published_date": "23 Dec 2024",
+      "body_sha256": "34178419266c49fc0f8b1550da9746c61a1d63f221a54e063e17c8257dce3a69",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "BOT notification/circular (FIPCS)",
+      "source": "bot_fipcs"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046": {
+      "title": "Ministry of Finance Notification Re: Rules, Procedures, and Conditions for the Application for and the Issuance of a Virtual Bank License",
+      "published_date": "20 Feb 2024",
+      "body_sha256": "39d0ea303d96705392b525d7f0a22718e73cf15d8586cb89aea9423b56aa0b68",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "BOT notification/circular (FIPCS)",
+      "source": "bot_fipcs"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660218": {
+      "title": "Notification of the Bank of Thailand No. SorKorChor. 6/2566 Re: Regulation on the management of the money received in advance for designated payment service",
+      "published_date": "23 Nov 2023",
+      "body_sha256": "5f31c440c5c1c4c39fa4ab22650542da04b3baeb24669dbc48a5146aa46b2a13",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "BOT notification/circular (FIPCS)",
+      "source": "bot_fipcs"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181": {
+      "title": "Guidelines for Biometric Technology Adoption in Financial Services",
+      "published_date": "29 Sep 2023",
+      "body_sha256": "fdf1b29f6fe457b5f92930175cc998d4e04b6a94515e6912b2a808a35fd27a20",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "BOT notification/circular (FIPCS)",
+      "source": "bot_fipcs"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-54-56": {
+      "title": "AMLO Acts",
+      "published_date": null,
+      "body_sha256": "d2c53fd7153ec9a11e08e131216f6aa6f0e1c3ac4688df659502e3ec151ba443",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO regulatory",
+      "source": "amlo",
+      "note": "section page - content not deeply fetched on bootstrap"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-55-30": {
+      "title": "AMLO Ministerial Regulations",
+      "published_date": null,
+      "body_sha256": "288dde0ebf896075ffe460f928a12056c14bca7e9a12fb9f6e8c372506d10686",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO regulatory",
+      "source": "amlo",
+      "note": "section page - content not deeply fetched on bootstrap"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-57-57": {
+      "title": "AMLO Ordinances",
+      "published_date": null,
+      "body_sha256": "2c318b991fe7af2e8506a8c9ce481913f47db14c2eeeb23a5e97bd4d045d36e7",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO regulatory",
+      "source": "amlo",
+      "note": "section page - content not deeply fetched on bootstrap"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications",
+      "published_date": null,
+      "body_sha256": "0b6a5c138f07508e2f52dd302154097911fd63531ce88950a4a87aaa097b83b5",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO regulatory",
+      "source": "amlo",
+      "note": "section page - content not deeply fetched on bootstrap"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "National Risk Assessment Reports",
+      "published_date": null,
+      "body_sha256": "1cf7ca66bae2b192d2ad417ba7bde9a211e1135462cd4b87c816b1f3bdb63d87",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO risk assessment",
+      "source": "amlo",
+      "note": "section page - content not deeply fetched on bootstrap"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/transaction-committee-order": {
+      "title": "Transaction Committee Order",
+      "published_date": null,
+      "body_sha256": "e24d3c893501aeaf1a0622597ce5d16dce474f26c5606f05d525026d22336c2a",
+      "checked_at": "2026-06-11T16:40:39Z",
+      "category": "AMLO enforcement",
+      "source": "amlo",
+      "note": "section page - content not deeply fetched on bootstrap"
+    }
+  },
+  "index_checked_at": "2026-06-11T16:40:39Z"
 }
