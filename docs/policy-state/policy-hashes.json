@@ -1,5 +1,349 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.bot.or.th/en/news-and-media/news.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://www.amlo.go.th/index.php/en/",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/index.php/en/news",
+    "https://www.amlo.go.th/index.php/en/news/detail/18980",
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON guidelines for submission information on risk assessment_4041.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CDDYHR03YFinal_6105.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YNewYProductY2021_8043.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YConcerningYAreasYConsidered_9284.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YGuidelineYforYConsideringYriskYfactor_7438.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/5.YAMLONY2021YpolicyYandYproceduresYforYriskYassessment_6252.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYInternalYControlY2021_7870.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYGroupYwide_5523.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYBOYExemption_2246.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYwireYtransfer_9610.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON_training_to_the_reporting_entities_by_a_juristic_person_1088.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLOYNotificationYIntegrityYIntention_1919.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/2.YAMLO_PMOYNotificationYonYCustomerYIdentificationYunderYSectionY16YB.E.Y2556_1464.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_7302.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYThailandYforYPublicationYEnglish_6112.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Thailands_MLFT_Risk_Profile_by_Sector_2011-2012_5124.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYSumY2559YEN_7527.pdf",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/13262",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/11905",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/11906",
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/9016",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/Supervisory-Framework.html",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx#biometric-2023-09-29"
+  ],
+  "items": {
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "Financial Institutions and Financial Service Providers Policy - Bank of Thailand",
+      "published_date": "2023-05-18",
+      "body_sha256": "096e95d75907d41649820dcab65ee1c37594e8cf67f7ccdf89de81fc19a82cfd",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "BOT Financial Institutions Policy",
+      "source": "BOT"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "News - Bank of Thailand",
+      "published_date": null,
+      "body_sha256": "eba3108e919ba52773523d2da17aa8fdde21942e4d5a79d539adbbeb71dbc442",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "BOT News",
+      "source": "BOT"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT Notification and Circulars - FIPCS",
+      "published_date": null,
+      "body_sha256": "09934fbe932a2b39431fc30a3bcfb42790c69807920e978fe93e86d02eef9166",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "BOT Notifications and Circulars",
+      "source": "BOT"
+    },
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "Anti-Money Laundering Office (AMLO) - Thailand",
+      "published_date": null,
+      "body_sha256": "7f5d286bfcba590f661e36dbfef3ab7ea04545fd208554f185c8deee5396f428",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Homepage",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO Notifications - AML/CFT Laws/Policy/Measures",
+      "published_date": null,
+      "body_sha256": "1921f0e634fd62aa67512f3a7990052197ac122e9b43c159ec4277d82bfb88f7",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notifications",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/news": {
+      "title": "AMLO News and Activities",
+      "published_date": null,
+      "body_sha256": "7f5d286bfcba590f661e36dbfef3ab7ea04545fd208554f185c8deee5396f428",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO News",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/news/detail/18980": {
+      "title": "Transaction Committee resolved to refer asset forfeiture case (~13,074M THB) - Scammer fraud case",
+      "published_date": "2026-02-11",
+      "body_sha256": "1dcfca64b1b057216429b29f889703cd13ddb33743f4be4b9e913994c1695b68",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Enforcement Action",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/national-risk-assessment/national-assessment-reports": {
+      "title": "AMLO National Risk Assessment Reports",
+      "published_date": null,
+      "body_sha256": "0acff7c95f13b25f25776c943a51cf896a4f98eb9b2d69558457a5896556e61a",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO National Risk Assessment",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report": {
+      "title": "Thailand Mutual Evaluation Report - AMLO Publications",
+      "published_date": null,
+      "body_sha256": "39cf8f27b6566de2fe43b4a92f76edbf9d72bcfa504b07cbd5c911970a7a60bb",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Mutual Evaluation Report",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Politically Exposed Persons (PEPs)",
+      "published_date": "2025-12-08",
+      "body_sha256": "af4391fd67f7be90eb14f18662b9a81ac63d6827bad88d0bfbf4e83060393345",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON guidelines for submission information on risk assessment_4041.pdf": {
+      "title": "AMLO Notification: Guidelines for Submission of Information on Risk Assessments Relating to ML/TF/PF",
+      "published_date": "2024-07-09",
+      "body_sha256": "b445dc98fbf5ce66c8fecfed7b74148104391bf0e108c79f468bcafe636b97a1",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf": {
+      "title": "AMLO Notification: High-risk Area or Jurisdiction Subject to Application of Enhanced Due Diligence",
+      "published_date": "2024-01-24",
+      "body_sha256": "391339a477355d60b86f1b02928961c612e17e789bb4ba1616aa3b187483e938",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CDDYHR03YFinal_6105.pdf": {
+      "title": "AMLO Notification: Rules for Designating High-Risk Customers Subject to Close Monitoring under CDD Ministerial Regulation B.E. 2563",
+      "published_date": "2023-02-13",
+      "body_sha256": "bb34fe7df65efc60413b271b80325edfdce6a187a86a11633fd956c23c6d7a96",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf": {
+      "title": "AMLO Notification: Guideline for Identification and Verification of Customers and Ultimate Beneficial Owners",
+      "published_date": "2021-05-14",
+      "body_sha256": "f7c99541829b84c422b3bb1661194f9468d3d0e69bdac53f5bd79e862c9d4221",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YNewYProductY2021_8043.pdf": {
+      "title": "AMLO Notification: Guideline for ML/TF/PF Risk Management Prior to Launching New Products",
+      "published_date": "2021-05-13",
+      "body_sha256": "80a9c571bcdfc9509487e085077fe96a9dae098ada3e096faca7012e8477b8f6",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YConcerningYAreasYConsidered_9284.pdf": {
+      "title": "AMLO Notification: Areas Considered as Having High Money Laundering or Financing of Terrorism Risk",
+      "published_date": "2021-05-13",
+      "body_sha256": "cfc48b0bc29cee7734836893cae4b24a7a2253f024518e5551b68c1cb9a8bbd0",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YGuidelineYforYConsideringYriskYfactor_7438.pdf": {
+      "title": "AMLO Notification: Guideline for Consideration of ML/TF/PF Risk Factors",
+      "published_date": "2021-04-09",
+      "body_sha256": "b49e6f3145b7197723d4dbe78176f0812db9fa5f65802e3f9ae9922eb1271394",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/5.YAMLONY2021YpolicyYandYproceduresYforYriskYassessment_6252.pdf": {
+      "title": "AMLO Notification: Guideline for Prescription of Internal Policies and Procedures for ML/TF/PF Risk Assessment",
+      "published_date": "2021-03-25",
+      "body_sha256": "6bd958f014de15e23a0cd1a436d84a6959a6398871d03f1f85b22f21601f41a3",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYInternalYControlY2021_7870.pdf": {
+      "title": "AMLO Notification: Prescription and Action under Policy and Procedure relating to Internal Control for Financial Institutions",
+      "published_date": "2021-03-25",
+      "body_sha256": "715995a13c1c2712eb1ec98a32a76b420a1e5884da13d5cb33978848d65963ed",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYGroupYwide_5523.pdf": {
+      "title": "AMLO Notification: Types of Financial Institutions under Section 16 and Branches/Subsidiaries (Group-Wide AML)",
+      "published_date": "2021-03-25",
+      "body_sha256": "282961043d423f66cb0234aa2cef5263e640899684cc796d07a8a3a2e9677c54",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYBOYExemption_2246.pdf": {
+      "title": "AMLO Notification: Types of Customer Exempted from Identification of Beneficial Owner",
+      "published_date": "2021-01-08",
+      "body_sha256": "0acddad00182726ffd813756fac27cdb9f2b16616b60c9c52eb9f4029c226234",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYwireYtransfer_9610.pdf": {
+      "title": "AMLO Notification: Accompanying Information Exemption for Qualifying Wire Transfer",
+      "published_date": "2020-11-25",
+      "body_sha256": "d331ff1657fe1a7baabb87e57cf5c7784c41a4a34d9653cd2f06eef224228e5e",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf": {
+      "title": "AMLO Notification: High-risk Areas or Jurisdictions Subject to Enhanced Due Diligence and Countermeasure",
+      "published_date": "2020-11-04",
+      "body_sha256": "a7b83f236f5ed72f01d4267b675c0a2587e3c918fc3eb8b661f42cbebafbff07",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON_training_to_the_reporting_entities_by_a_juristic_person_1088.pdf": {
+      "title": "AMLO Notification: Rules and Procedures for Training Provision for Reporting Entities under Section 16",
+      "published_date": "2020-07-16",
+      "body_sha256": "e1cf43da0c009b5f600d337001c8da948cd78a7d522a7b7be6df3ece98b57512",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf": {
+      "title": "AMLO Notification: Guidelines for Prescribing Factors for Consideration for Low Risk Customer (New)",
+      "published_date": "2020-03-19",
+      "body_sha256": "5f1c7ddecf5ec26062bcc2e56b57e8229d69fd021f4c0a0d594ca06608ad58f8",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf": {
+      "title": "Prime Minister Office Notification on Customer Identification under Section 16 B.E. 2562",
+      "published_date": "2019-08-09",
+      "body_sha256": "398506e9480c8f828d07ea8cebb5a66ff890156a029adf6b2f3bf4740d8e0edb",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLOYNotificationYIntegrityYIntention_1919.pdf": {
+      "title": "AMLO Notification: Integrity Intent on Anti-Money Laundering Office Management",
+      "published_date": "2018-07-12",
+      "body_sha256": "fafe78a149a715ce9f0820bb271b407c2b7a02aababe24dd182dfce9cdda5b56",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/2.YAMLO_PMOYNotificationYonYCustomerYIdentificationYunderYSectionY16YB.E.Y2556_1464.pdf": {
+      "title": "Prime Minister Office Notification on Customer Identification under Section 16 B.E. 2556",
+      "published_date": "2017-05-09",
+      "body_sha256": "c6df7f301db822809af24d839f6a13167d5e824638d567cf4550529c2eafc63d",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_7302.pdf": {
+      "title": "AMLO Notification: Guidelines for Prescribing Factors for Consideration for Low Risk Customer",
+      "published_date": "2017-05-09",
+      "body_sha256": "bbb73c082dbedb44cc7b7887be8b0e4be439a5221f5274a589b21839aa7a7f6f",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYThailandYforYPublicationYEnglish_6112.pdf": {
+      "title": "Thailand National Risk Assessment on ML/TF/PF (August 2022)",
+      "published_date": "2022-12-14",
+      "body_sha256": "1c5432f830b430d13707e8aa0c4ea282c503df1a123ca6249040b98ecc07ad3f",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Thailands_MLFT_Risk_Profile_by_Sector_2011-2012_5124.pdf": {
+      "title": "Thailand's MLFT Risk Profile by Sector 2012",
+      "published_date": "2019-01-18",
+      "body_sha256": "0154e10c53d24e4e6e47e41283fb37bc164658c9722e5d08573f78de777bf34b",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/NRAYSumY2559YEN_7527.pdf": {
+      "title": "Summary of 2016 National Money Laundering and Terrorism Financing Risk Assessment",
+      "published_date": "2017-10-02",
+      "body_sha256": "25a375916d5c7c5fa21e8009135b7039b5983084b1b6e7f92b0199f1c2fa33a9",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Notification PDF",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/13262": {
+      "title": "Thailand FATF Follow-Up Report 2022 (FUR 2022)",
+      "published_date": "2022-10-07",
+      "body_sha256": "45ed8a7a58fb0d531e48d5b1ff6521391eb4e22bfc08b3ab8ba405a33ad83e21",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Mutual Evaluation Report",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/11905": {
+      "title": "Thailand FATF Follow-Up Report 2021 (FUR 2021)",
+      "published_date": "2021-07-29",
+      "body_sha256": "be6891e5094beecea0245d62ba0fa7afbcf979b0fc3d05325bafa98385140bab",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Mutual Evaluation Report",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/11906": {
+      "title": "Thailand FATF Follow-Up Report 2018 (FUR 2018)",
+      "published_date": "2019-12-29",
+      "body_sha256": "bcaad383668a1c37c9cd34ec8553e9566f593dbec480503523d3c95fab1646d2",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Mutual Evaluation Report",
+      "source": "AMLO"
+    },
+    "https://www.amlo.go.th/index.php/en/publication/thailand-mutual-evaluation-report/detail/9016": {
+      "title": "Thailand Mutual Evaluation Report 2017 (MER 2017)",
+      "published_date": "2019-01-28",
+      "body_sha256": "0a71c0190ff306ff2e0aa0635182b0013eff8c11f0bd154322a7e16cc900ba20",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "AMLO Mutual Evaluation Report",
+      "source": "AMLO"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/Supervisory-Framework.html": {
+      "title": "Financial Institutions Supervision - Bank of Thailand",
+      "published_date": null,
+      "body_sha256": "b0b41c412dc10d7def04e8dfe2d222e403f4b69532a853c7059932df1ccfdc94",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "BOT Supervisory Framework",
+      "source": "BOT"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx#biometric-2023-09-29": {
+      "title": "BOT Circular: Guidelines for Biometric Technology Adoption in Financial Services (KYC/CDD)",
+      "published_date": "2023-09-29",
+      "body_sha256": "34474cb359f4cc1629b2ea95849a98928e5904c2807aef96f25c9e0c06d52b9c",
+      "checked_at": "2026-06-13T15:43:00Z",
+      "category": "BOT Circular - KYC/CDD",
+      "source": "BOT"
+    }
+  },
+  "index_checked_at": "2026-06-13T15:43:00Z"
 }
