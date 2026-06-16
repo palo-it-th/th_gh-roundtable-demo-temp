@@ -1,5 +1,387 @@
 {
-  "seen_items": [],
-  "items": {},
-  "index_checked_at": null
+  "seen_items": [
+    "https://www.amlo.go.th/index.php/en/",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983",
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657",
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON guidelines for submission information on risk assessment_4041.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CDDYHR03YFinal_6105.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YNewYProductY2021_8043.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YConcerningYAreasYConsidered_9284.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YGuidelineYforYConsideringYriskYfactor_7438.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/5.YAMLONY2021YpolicyYandYproceduresYforYriskYassessment_6252.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYInternalYControlY2021_7870.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYGroupYwide_5523.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYBOYExemption_2246.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYwireYtransfer_9610.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON_training_to_the_reporting_entities_by_a_juristic_person_1088.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLOYNotificationYIntegrityYIntention_1919.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/2.YAMLO_PMOYNotificationYonYCustomerYIdentificationYunderYSectionY16YB.E.Y2556_1464.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_7302.pdf",
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/transaction-committee-order",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No.Yor.229-2568_5294.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No. Yor. 175-2568_5480.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No. Yor. 151-2568_4462.pdf",
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No. Yor. 90-2568_7310.pdf",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680171",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660218",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650213",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650060",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25620013",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25610194",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25610086",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25600026",
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25560156",
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html",
+    "https://www.bot.or.th/en/news-and-media/news.html"
+  ],
+  "items": {
+    "https://www.amlo.go.th/index.php/en/": {
+      "title": "AMLO - Main Page (What's NEW)",
+      "published_date": null,
+      "body_sha256": "e19b4d23efcc216b02392dcf53857d90217a9c64f4785a58ef331e44ad0933e1",
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO index"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/19220": {
+      "title": "List of Designated Persons (Updated as of 15 June 2026)",
+      "published_date": "15 Jun 2026",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO What's NEW",
+      "note": "fetch_failed"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18802": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of February 2026)",
+      "published_date": "13 Feb 2026",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO What's NEW",
+      "note": "fetch_failed"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/18983": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of October 2025)",
+      "published_date": "24 Oct 2025",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO What's NEW",
+      "note": "fetch_failed"
+    },
+    "https://www.amlo.go.th/index.php/whatsnew/detail/17657": {
+      "title": "High Risks Jurisdictions subject to a Call for Action and Jurisdictions under Increased Monitoring (As of June 2025)",
+      "published_date": "17 Jun 2025",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO What's NEW",
+      "note": "fetch_failed"
+    },
+    "https://www.amlo.go.th/index.php/en/aml-cft-laws-policy-measures/2016-06-04-14-58-33": {
+      "title": "AMLO - AML/CFT Notifications",
+      "published_date": null,
+      "body_sha256": "404fa9ce99066188de5430fbc87a98d56af45c4da0d239798f6438e36e8379f2",
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notifications index"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON PEPs 2568_686.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Politically Exposed Persons (PEPs)",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON guidelines for submission information on risk assessment_4041.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guidelines for Submission of Information on Risk Assessments Relating to Money Laundering or Financing of Terrorism or Proliferation of Weapons of ",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON High Risk Areas Myanmar issued_500.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning High-risk Area or Jurisdiction Subject to Application of Enhanced Due Diligence",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/CDDYHR03YFinal_6105.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Rules for Designating or Reviewing List of High-Risk Customers Subject to Close Monitoring under Ministerial Regulation on Customer Due Diligence B",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYguidelineYidentifyingYBO_1432.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Identification and Verification of Customers and Ultimate Beneficial Owners",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YNewYProductY2021_8043.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Issuance of Measures for Money Laundering and Financing of Terrorism and Proliferation of Weapons of Mass Destruction Risk Management",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YConcerningYAreasYConsidered_9284.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Areas Considered by Anti-Money Laundering Office as Having High Money Laundering or Financing of Terrorism Risk",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONY-YGuidelineYforYConsideringYriskYfactor_7438.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Consideration of Risk Factors of Money-Laundering or Combating the Financing of Terrorism or Proliferation of Weapons of Mass Destruc",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/5.YAMLONY2021YpolicyYandYproceduresYforYriskYassessment_6252.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Guideline for Prescription of Internal Policies and Procedures for Assessment, Management and Mitigation of Money Laundering or Financing of Terror",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYInternalYControlY2021_7870.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Prescription and Action under Policy and Procedure relating to Internal Control for Financial Institutions and Businesses and Professions under Sec",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYGroupYwide_5523.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Types of Financial Institutions or Businesses and Professions under Section 16 and Branches or Subsidiaries",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYBOYExemption_2246.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Types of Customer Exempted from Identification of Beneficial Owner by Financial Institutions and Businesses and Professions under Section 16",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYwireYtransfer_9610.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning Accompanying Information Exemption for Qualifying Wire Transfer",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYHighYRiskYAreas_9170.pdf": {
+      "title": "Anti-Money Laundering Office Notification Concerning High-risk Areas or Jurisdictions Subject to Application of Enhanced Due Diligence and Countermeasure",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLON_training_to_the_reporting_entities_by_a_juristic_person_1088.pdf": {
+      "title": "AMLO Notification Re: Rules and Procedures for Training Provision under the Anti-Money Laundering Board Ordinance on the Provision of Training to the Reporting Entities under Section 13 and Section 16",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_5706.pdf": {
+      "title": "AMLO Notification Re: Guidelines for Prescribing Factors for Consideration for Low Risk Customer (New)",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/PMOYNotificationY-YCustomerYIDY2562_Eng_9191.pdf": {
+      "title": "Prime Minister Office Notification on Customer Identification under Section 16 B.E. 2562",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLOYNotificationYIntegrityYIntention_1919.pdf": {
+      "title": "Anti-Money Laundering Office Notification Re: Integrity Intent on Anti-Money Laundering Office Management",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/2.YAMLO_PMOYNotificationYonYCustomerYIdentificationYunderYSectionY16YB.E.Y2556_1464.pdf": {
+      "title": "Prime Minister Office Notification on Customer Identification under Section 16 B.E. 2556",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/AMLONYLowYRiskYCustomersYSecY16_7302.pdf": {
+      "title": "AMLO Notification on Guidelines for Prescribing Factors for Consideration for Low Risk Customer",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Notification document"
+    },
+    "https://www.amlo.go.th/index.php/en/high-risk-countries-designated-list/transaction-committee-order": {
+      "title": "AMLO - Transaction Committee Orders",
+      "published_date": null,
+      "body_sha256": "ed03e6d7e7d126f37dde51294e32ee1a1c538a9d669ef5913c10fc814b055882",
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO designated persons"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No.Yor.229-2568_5294.pdf": {
+      "title": "AMLO Transaction Committee Order: Transaction Committee Order No.Yor.229-2568",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Transaction Committee Order"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No. Yor. 175-2568_5480.pdf": {
+      "title": "AMLO Transaction Committee Order: Transaction Committee Order No. Yor. 175-2568",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Transaction Committee Order"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No. Yor. 151-2568_4462.pdf": {
+      "title": "AMLO Transaction Committee Order: Transaction Committee Order No. Yor. 151-2568",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Transaction Committee Order"
+    },
+    "https://www.amlo.go.th/amlo-intranet/media/k2/attachments/Transaction Committee Order No. Yor. 90-2568_7310.pdf": {
+      "title": "AMLO Transaction Committee Order: Transaction Committee Order No. Yor. 90-2568",
+      "published_date": null,
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "AMLO Transaction Committee Order"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_list.aspx": {
+      "title": "BOT FIPCS - Financial Institutions Policy Circulars and Supervision",
+      "published_date": null,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS index"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25680171": {
+      "title": "Notice of the Competent Officer Re: Rules and Practices regarding Currency Exchange (No. 34))",
+      "published_date": "1 Sep 2025",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670214": {
+      "title": "Ministry of Finance Notification Re: The Application for and the Issuance of a License to Operate a Branch of a Foreign Commercial Bank",
+      "published_date": "23 Dec 2024",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670213": {
+      "title": "Ministry of Finance Notification Re: The Application for and the Issuance of a License to Undertake Commercial Banking Business, Finance Business, and Credit Foncier Business",
+      "published_date": "23 Dec 2024",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25670046": {
+      "title": "Ministry of Finance Notification Re: Rules, Procedures, and Conditions for the Application for and the Issuance of a Virtual Bank License",
+      "published_date": "20 Feb 2024",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660218": {
+      "title": "Notification of the Bank of Thailand No. SorKorChor. 6/2566 Re: Regulation on the management of the money received in advance in the case of designated payment service business provider has been under",
+      "published_date": "23 Nov 2023",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25660181": {
+      "title": "Guidelines for Biometric Technology Adoption in Financial Services",
+      "published_date": "29 Sep 2023",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650213": {
+      "title": "Ministerial Regulations No. 27 (B.E. 2565) issued under the Exchange Control Act B.E. 2485",
+      "published_date": "4 Nov 2022",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25650060": {
+      "title": "Notice of the Competent Officer Re: Rules and Practices regarding Currency Exchange (No. 32)",
+      "published_date": "18 Apr 2022",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25620013": {
+      "title": "Submission of Reports to the Bank of Thailand (SorRorKhor.1/2562) Submission of Reports to the Bank of Thailand",
+      "published_date": "11 Jan 2019",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25610194": {
+      "title": "Stipulation on Designated Payment System",
+      "published_date": "17 Aug 2018",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25610086": {
+      "title": "Application for License to Undertake Designated Payment System Business",
+      "published_date": "16 Apr 2018",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25600026": {
+      "title": "Submission of Reports to the Bank of Thailand (SorRorKhor.11/2559) Submission of Reports to the Bank of Thailand",
+      "published_date": "16 Dec 2016",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://app.bot.or.th/FIPCS/eng/PFIPCS_summary.aspx?packId=25560156": {
+      "title": "Guidelines and Conditions for Establishing a Branch and Undertaking the Business of a Branch of Foreign Commercial Bank\u2019s Subsidiary",
+      "published_date": "13 Jun 2013",
+      "body_sha256": null,
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT FIPCS notification"
+    },
+    "https://www.bot.or.th/en/our-roles/financial-institutions/financial-institutions-and-financial-service-providers-policy.html": {
+      "title": "BOT - Financial Institutions and Financial Service Providers Policy",
+      "published_date": null,
+      "body_sha256": "db6c02502c4cf611e6b1bc877f526d7a4af86079b58a8320d2cee07c0783ca7d",
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT policy index"
+    },
+    "https://www.bot.or.th/en/news-and-media/news.html": {
+      "title": "BOT - News and Media",
+      "published_date": null,
+      "body_sha256": "ee24988f2d2433553de7776795fb31daf835da7855e203dcc3aa0587ea19aa65",
+      "checked_at": "2026-06-16T16:53:14.998248Z",
+      "category": "BOT news index"
+    }
+  },
+  "index_checked_at": "2026-06-16T16:53:14.998248Z"
 }
